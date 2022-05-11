@@ -1,0 +1,9 @@
+| [Introduction](../Introduction/index.md) | [News and events](.../News-and-events/index.md) | [Specification](../Specification/index.md) | [Tools](../Tools/index.md) | [Resources](../Resources/index.md) | [FAQ](../FAQ/index.md) | [About](../About/index.md) |
+| ---------------------------------------- | ----------------------------------------------- | ------------------------------------------ | -------------------------- | ---------------------------------- | ---------------------- | -------------------------- |
+
+| [Overview](index.md) | [Release cycle, eFMI versioning and backwards compatibility](release-cycle.md) | [Reporting specification issues and new feature proposals](reporting-specification-issues-and-new-feature-proposals.md) | [Current stable releases](current-stable-releases.md) | [Candidate-drafts of next release](candidate-drafts-of-next-release.md) | [Old stable releases](old-stable-releases.md) |
+| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+
+# Old stable releases
+
+There are no old stable releases.
