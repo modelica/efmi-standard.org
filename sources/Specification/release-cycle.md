@@ -1,12 +1,12 @@
-| [Introduction](../Introduction/index.md) | [News and events](.../News-and-events/index.md) | [Specification](../Specification/index.md) | [Tools](../Tools/index.md) | [Resources](../Resources/index.md) | [FAQ](../FAQ/index.md) | [About](../About/index.md) |
+| [Introduction](../Introduction/index.md) | [News and events](.../News-and-events/index.md) | [_eFMI Standard_](../Specification/index.md) | [Tools](../Tools/index.md) | [Resources](../Resources/index.md) | [FAQ](../FAQ/index.md) | [About](../About/index.md) |
 | ---------------------------------------- | ----------------------------------------------- | ------------------------------------------ | -------------------------- | ---------------------------------- | ---------------------- | -------------------------- |
 
-| [Overview](index.md) | [Release cycle, eFMI versioning and backwards compatibility](release-cycle.md) | [Reporting specification issues and new feature proposals](reporting-specification-issues-and-new-feature-proposals.md) | [Current stable releases](current-stable-releases.md) | [Candidate-drafts of next release](candidate-drafts-of-next-release.md) | [Old stable releases](old-stable-releases.md) |
+| [About the eFMI Standard and its licensing](index.md) | [Release cycle, eFMI versioning and backwards compatibility](release-cycle.md) | [Reporting specification issues and new feature proposals](reporting-specification-issues-and-new-feature-proposals.md) | [Current stable releases](current-stable-releases.md) | [Candidate-drafts of next release](candidate-drafts-of-next-release.md) | [Old stable releases](old-stable-releases.md) |
 | ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
 
 # Release cycle, eFMI versioning and backwards compatibility
 
-## Introduction
+## General release organization
 
 We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_. We expect the _Voting Candidate_ about the first quarter of 2023.
 
@@ -26,7 +26,7 @@ We avoid minor standard versions. Such are *only* for bug-fixes. We are rigorous
 
 This means, that _eFMI Standard_ releases and tooling releases are coordinated (which is reflected in our [versioning scheme](#eFMI versioning)). After all, the eFMI technology is not useful if users have no access to a working _toolchain_ from high-level a-causal modeling and simulation to target-specific embedded code.
 
-## Release cycle
+## Release schedule
 
 First candidate-drafts of a new _eFMI Standard_ version are earliest released in the second year of development. Typically there are an _Alpha 1_, _Alpha 2_, _Beta 1_, _Beta 2_ and finally _Voting Candidate_ draft versions of the currently developed standard before its final release, roughly evenly spread out within the second year.
 
@@ -37,12 +37,12 @@ The _Alpha_ versions are likely incomplete with open _"to do"_ sections. The _Be
 All artefacts released by MAP eFMI -- e.g., the eFMI specification text, XML Schema Definitions for container manifests, example eFMUs, the [_eFMI Container Manager_](https://github.com/modelica/efmi-containermanager), [_eFMI Compliance Checker_](https://github.com/modelica/efmi-compliancechecker) and [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) -- use a certain versioning scheme consisting of three digits of the form `MAJOR.MINOR.PATCH`. In principle the scheme follows [Semantic Versioning 2.0.0](https://semver.org/), with the following additional restrictions:
 
 * All artefacts of a _eFMI Standard_ must have the very same version. This means for example, that the versions of the XML Schema Definitions for eFMI container manifests (the XSD files / software artefacts) are aligned with the version of the eFMI specification text that uses this very definitions.
-* If there is ever a need for a new `MINOR` _eFMI Standard_ version (hence a pure bug-fix release of the standard according to [above introduction](##Introduction)), all artefacts and tooling must provide new releases (incorporating any fix as needed of course), increasing their `MINOR` digit respectively. I.e., the `MINOR` digit denotes consecutive bug-fix releases of the _eFMI Standard_ and the tooling for it.
+* If there is ever a need for a new `MINOR` _eFMI Standard_ version (hence a pure bug-fix release of the standard according to the [general release organization](##General release organization)), all artefacts and tooling must provide new releases (incorporating any fix as needed of course), increasing their `MINOR` digit respectively. I.e., the `MINOR` digit denotes consecutive bug-fix releases of the _eFMI Standard_ and the tooling for it.
 * The `PATCH` digit is only used by artefacts and tooling for some _eFMI Standard_, but never _eFMI Standards_ (their `PATCH` digit always is 0). This means, that pure tooling bug-fix releases, for the very same _eFMI Standard_ version, is denoted by increasing `PATCH` digits of the version of the respective tooling.
 
 **Example:** _A eFMI Container Manager 1.1.3 release is the third release of the tool for the eFMI Standard 1.1.0, which was a bug-fix release for the eFMI Standard 1.0.0, whereas a eFMI Container Manager 2.0.0 release is the first tooling release for a completely new major eFMI Standard release._
 
-We like to stress that `MINOR` _eFMI Standard_ version changes are pure bug-fix releases as explained in the [Introduction](##Introduction)! This means, no new features are added in such. For that reason it is valid to just talk about, e.g., _eFMI 1_ vs. _eFMI 2_ etc when denoting the features and general tooling of some eFMI technology space.
+We like to stress that `MINOR` _eFMI Standard_ version changes are pure bug-fix releases as explained in the [general release organization](##General release organization)! This means, no new features are added in such. For that reason it is valid to just talk about, e.g., _eFMI 1_ vs. _eFMI 2_ etc when denoting the features and general tooling of some eFMI technology space.
 
 ## eFMI backwards compatibility
 

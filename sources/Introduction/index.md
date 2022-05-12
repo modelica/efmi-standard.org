@@ -1,5 +1,8 @@
-| [Introduction](../Introduction/index.md) | [News and events](.../News-and-events/index.md) | [Specification](../Specification/index.md) | [Tools](../Tools/index.md) | [Resources](../Resources/index.md) | [FAQ](../FAQ/index.md) | [About](../About/index.md) |
+| [Introduction](../Introduction/index.md) | [News and events](.../News-and-events/index.md) | [_eFMI Standard_](../Specification/index.md) | [Tools](../Tools/index.md) | [Resources](../Resources/index.md) | [FAQ](../FAQ/index.md) | [About](../About/index.md) |
 |-|-|-|-|-|-|-|
 
-# Introduction
+| [About eFMI](index.md) | [Project organization](project-organization.md) | [Community](community.md) |
+| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+
+# About eFMI
 
