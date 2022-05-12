@@ -10,9 +10,7 @@ The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the 
 
 **_eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:**
 
-* [Browsable single-file specification (HTML)](resources/eFMI-Standard-1.0.0-specification-Alpha-4.html)
-* [Standalone HTML specification (zip)](resources/eFMI-Standard-1.0.0-specification-Alpha-4.zip)
-* [Printer-suited specification (PDF)](resources/eFMI-Standard-1.0.0-specification-Alpha-4.pdf)
-* [_eFMI Standard Supplementary_ (zip)](resources/eFMI-Standard-1.0.0-Supplementary-Alpha-4.zip)
-* [eFMU examples (zip)](resources/eFMI-Standard-1.0.0-eFMU-examples-Alpha-4.zip)
-* [Specification with change-marks to previous draft (PDF)](resources/eFMI-Standard-1.0.0-specification-change-marks-Alpha-4.pdf)
+* [_eFMI Standard 1.0.0 Alpha 4_ (zip)](resources/eFMI-Standard-1.0.0-Alpha-4.zip)
+* [Browsable specification text only (HTML)](resources/eFMI-Standard-1.0.0-Alpha-4-specification-text.html)
+* [Printer-suited specification text only (PDF)](resources/eFMI-Standard-1.0.0-Alpha-4-specification-text.pdf)
+* [Specification with change-marks to previous draft (PDF)](resources/eFMI-Standard-1.0.0-Alpha-4-specification-text-changemarks.pdf)
