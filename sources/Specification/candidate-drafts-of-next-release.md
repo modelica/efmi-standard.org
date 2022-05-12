@@ -6,7 +6,7 @@
 
 # Candidate-drafts of next release
 
-The next eFMI Standard release is version 1.0.0; the latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_. Please cf. [the release cycle](release-cycle-and-schedule.md) for details about the release schedule and for an estimation of maturity of candidate-drafts.
+The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the candidate-drafts for it. Please cf. [the release cycle](release-cycle.md) for details about the release schedule and for an estimation of maturity of candidate-drafts.
 
 **_eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:**
 

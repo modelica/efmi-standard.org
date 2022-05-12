@@ -6,4 +6,4 @@
 
 # Old stable releases
 
-There are no old stable releases.
+There are no old stable releases. We are still in the process of finishing the first official release; please cf. the [candidate-drafts for it](candidate-drafts-of-next-release.md).

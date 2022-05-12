@@ -6,4 +6,4 @@
 
 # Current stable release
 
-There is no current stable release yet. The upcoming release candidate is _eFMI Standard 1.0.0_, based on the most current candidate-draft and scheduled for the second half of 2022.
+There exists no current stable release yet. The upcoming release of _eFMI Standard 1.0.0_ is scheduled for the first quarter of 2023; please cf. the [candidate-drafts for it](candidate-drafts-of-next-release.md).
