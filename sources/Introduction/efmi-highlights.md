@@ -10,7 +10,7 @@ Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is s
 
 * [Open](../eFMI-Standard/index.md), [freely available](../eFMI-Standard/current-stable-releases.md), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
 * Driven by [open-source, research and industrial](project-organization-and-community.md##Project members) tool-vendors and users from the modelling & simulation to the safety-critical embedded software domains.
-* Supporting [tools](../Tools/index.md) are first-class in their field of expertise, e.g., physics-modeling (Dymola 2023), embedded development and rapid prototyping (TargetLink 2022 B), software- and Hardware-in-the-Loop (SiL, HiL) testing (TPT 19) etc.
+* Supporting [tools](../Tools/index.md) are first-class in their field of expertise, e.g., physics modeling (Dymola 2023), embedded development and rapid prototyping (TargetLink 2022 B), software- and Hardware-in-the-Loop (SiL, HiL) testing (TPT 19) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial testsuite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
 * Standardized workspace based on an open container architecture for cross-vendor tooling integration, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
   * **Behavioral Model:** Reference behavior design and testing.
