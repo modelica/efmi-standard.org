@@ -10,4 +10,4 @@ A
 
 ## Project members
 
-d
+E.g., [Dassault Sysèmes](https://www.3ds.com/), [Deutsche Zentrum für Luft- und Raumfahrt e. V.](https://www.dlr.de/), [dSPACE GmbH](https://www.dspace.com/), [Mercedes-Benz AG](https://www.mercedes-benz.com/), [Mitsubishi Electric Research Laboratories](https://www.merl.com/), [Modelon AB](https://www.modelon.com/), [Open Source Modelica Consortium](https://openmodelica.org/home/consortium), [Robert Bosch GmbH](https://www.bosch.com/) or [Siemens Digital Industries Software](https://www.sw.siemens.com/).
