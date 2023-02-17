@@ -1,0 +1,88 @@
+---
+title: Home
+---
+
+<style>
+.bd-masthead {
+    background-image: 
+    radial-gradient(ellipse at top left, rgba(0, 100, 0, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse at top right, rgba(100, 0, 0, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse at center right, rgba(100, 0, 0, 0.2) 0%, transparent 50%),
+    radial-gradient(ellipse at center left , rgba(0, 0, 100, 0.2) 0%, transparent 50%);
+}
+
+.masthead-notice {
+    background-color: #ffe484;
+    box-shadow: inset 0 -1px 1px rgba(var(--bs-body-color-rgb), 0.15),0 0.25rem 1.5rem rgba(var(--bs-body-bg-rgb), 0.75);
+}
+
+.logo {
+    max-width: 10rem; 
+    max-height: 4.2rem;
+}
+</style>
+    
+
+<div class="bd-masthead">
+
+    <div class="container" style="padding-top: 120px;">
+
+        <div class="col-md-10 mx-auto text-center">
+
+            {{< latest-news >}}
+
+            <img src="/images/eFMI.svg" width="650" height="200" alt="eFMI - Functional Mock-up Interface for embedded systems" class="d-block mx-auto mb-3">
+
+            <h1 class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
+
+            <p class="lead mb-4">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam condimentum laoreet mauris vulputate sollicitudin. Donec scelerisque, augue at rutrum vulputate, risus est varius ante, egestas placerat ante dui sed augue.            
+            </p>
+
+            <div class="d-flex flex-column flex-lg-row align-items-md-stretch justify-content-md-center gap-3 mb-4">
+                <button type="button" class="btn btn-primary btn-lg"><i class="fa-solid fa-file-zipper me-2"></i>Complete Package 1.0</button>
+                <button type="button" class="btn btn-primary btn-lg"><i class="fa-solid fa-file-lines me-2"></i>Specification 1.0</button>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<div style="background-color: #f5f5f5; width: 100%; border-color: #cbcbcb; border-style: solid; border-width: 1px 0 1px 0; margin-top: 100px;">
+
+    <div class="container">
+
+        <div class="row justify-content-evenly">
+
+            <div class="col-lg-5 col-sm-10 my-4 text-center">
+            <img src="/images/Modelica_Association.svg" height="100" style="filter: grayscale(100%); opacity: 0.7;" class="my-2">
+            <p class="py-4 text-muted">FMI for Embedded Systems is a Modelica Association Project.</p>
+            </div>
+
+            <div class="col-lg-5 col-sm-10 my-4">
+            <h2>Get in touch</h2>
+            <table class="table table-borderless contact-table">
+                <tbody>
+                <tr>
+                    <td><span class="text-muted">Code</span></td>
+                    <td><a href="https://github.com/modelica/efmi-standard">github.com/modelica/efmi-standard</a></td>
+                </tr>
+                <tr>
+                    <td><span class="text-muted">E-Mail</span></td>
+                    <td><a href="mailto:contact@efmi-standard.org">	contact@efmi-standard.org</a></td>
+                </tr>
+                <tr>
+                    <td><span class="text-muted">Newsletter</span></td>
+                    <td><a href="https://creativeconnections.us12.list-manage.com/subscribe?u=0be901f875b69817eddd7e71b&amp;id=0cb2cf5b72&amp;group[20249][2]=true">Modelica Association Info Service</a></td>
+                </tr>
+                </tbody>
+            </table>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

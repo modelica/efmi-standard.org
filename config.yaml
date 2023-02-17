@@ -1,0 +1,30 @@
+baseURL: https://efmi-standard.org/
+title: FMI for Embedded Systems
+theme: ma-hugo-theme
+params:
+  logo: /images/eFMI_bare.svg
+menu:
+  main:
+    - pageRef: tools
+      identifier: tools
+      name: Tools
+      url: /tools/
+      weight: 1
+
+    - pageRef: resources
+      identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 2
+
+    - pageRef: "news"
+      identifier: "news"
+      name: "News"
+      url: "/news/"
+      weight: 3
+    
+    - pageRef: faq
+      identifier: faq
+      name: FAQ
+      url: /faq/
+      weight: 4
