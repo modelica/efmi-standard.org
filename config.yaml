@@ -1,30 +1,48 @@
 baseURL: https://efmi-standard.org/
-title: FMI for Embedded Systems
+title: Functional Mock-up Interface for embedded systems
 theme: ma-hugo-theme
 params:
   logo: /images/eFMI_bare.svg
 menu:
   main:
-    - pageRef: tools
-      identifier: tools
-      name: Tools
-      url: /tools/
+    - pageRef: "introduction"
+      identifier: "introduction"
+      name: "Introduction"
+      url: "/introduction/"
       weight: 1
-
+    
     - pageRef: resources
       identifier: resources
       name: Resources
       url: /resources/
       weight: 2
-
-    - pageRef: "news"
-      identifier: "news"
-      name: "News"
-      url: "/news/"
+    
+    - pageRef: standard
+      identifier: standard
+      name: Standard
+      url: /standard/
       weight: 3
+    
+    - pageRef: tools
+      identifier: tools
+      name: Tools
+      url: /tools/
+      weight: 4
+    
+    - pageRef: news
+      identifier: news
+      name: News
+      url: /news/
+      weight: 5
     
     - pageRef: faq
       identifier: faq
       name: FAQ
       url: /faq/
-      weight: 4
+      weight: 6
+    
+    - pageRef: about
+      identifier: about
+      name: About
+      url: /about/
+      weight: 7
