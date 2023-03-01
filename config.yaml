@@ -1,8 +1,8 @@
 baseURL: https://efmi-standard.org/
-title: Functional Mock-up Interface for embedded systems
+title: Functional Mock-up Interface for embedded systems (eFMI)
 theme: ma-hugo-theme
 params:
-  logo: /images/eFMI_bare.svg
+  logo: /media/eFMI-logo-no-text.svg
 menu:
   main:
     - pageRef: "introduction"
