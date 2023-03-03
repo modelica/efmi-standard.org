@@ -46,6 +46,10 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
  - [Membership application guidelines and form (PDF)](/media/resources/MAP-eFMI-application.pdf)
  - [Modelica Association Contributor License Agreement (MA CLA) (PDF)](/media/resources/Modelica-Association-CLA.pdf)
 
+**Annual project reports at Modelica Association assembly meetings**
+
+ - [Annual project report 2021](/media/resources/MAP-eFMI-annual-project-report-2021.pdf)
+ 
 # Recommended documentation and introductory material{id="Recommended-documentation-and-introductory-material"}
 
 **Overview and introduction**

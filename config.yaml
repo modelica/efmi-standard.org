@@ -3,6 +3,7 @@ title: Functional Mock-up Interface for embedded systems (eFMI)
 theme: ma-hugo-theme
 params:
   logo: /media/eFMI-logo-no-text.svg
+  github: modelica/efmi-standard.org
 menu:
   main:
     - pageRef: "introduction"

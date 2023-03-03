@@ -2,6 +2,6 @@
 ~$*
 # Ignore HUGO generated files:
 public/
-resources/
+/resources/
 .hugo_build.lock
 .idea/
