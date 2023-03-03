@@ -5,7 +5,7 @@ title: Resources
 [//]: # "# Project resources: Forms, documentation, use-cases and example eFMUs"
 
 This page provides _selected_ MAP eFMI publications, most importantly the _eFMI Standard_, but also accompanying documents like example eFMUs, introductory presentations, overview papers, project reports and forms etc. For an overview of 3rd party eFMI tooling, please consult the [Tools page](/tools/). The publications of MAP eFMI can be categorized in:
- 1. [eFMI Standard releases](#eFMI-Standard-releases): Most recent stable release, current candidate drafts and previous stable releases.
+ 1. [eFMI Standard releases](#eFMI-Standard-releases): Most recent stable release, current candidate-drafts and previous stable releases.
  2. [MAP eFMI published tooling](#MAP-eFMI-published-tooling)
  3. [Project organization](#Project-organization): Bylaws, membership application forms, public project reports etc.
  4. [Recommended documentation and introductory material](#Recommended-documentation-and-introductory-material)
@@ -34,7 +34,7 @@ There are no previous stable releases yet. We are still in the process of finish
 
 # MAP eFMI published tooling{id="MAP-eFMI-published-tooling"}
 
-MAP eFMI provides a set of open source tools and libraries to foster the eFMI ecosystem. For not by MAP eFMI released tooling, including commercial tools, please cf. the [Tools page](/tools/). For final release distributions of the MAP eFMI published tooling, please check each individual tool's repository; note, that we apply a unique [versioning scheme](/standard/#Versioning-scheme) such that every tool version can be mapped to the _eFMI Standard_ it supports and vice-versa. The tools published by MAP eFMI are:
+MAP eFMI provides a set of open source tools and libraries to foster the eFMI ecosystem. For not by MAP eFMI released tooling, including commercial tools, please cf. the [Tools page](/tools/). For final release distributions of MAP eFMI published tooling, please check each individual tool's repository; note, that we apply a unique [versioning scheme](/standard/#Versioning-scheme) such that every tool version can be mapped to the _eFMI Standard_ it supports and vice-versa. The tools published by MAP eFMI are:
 
  - [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases/releases): Official eFMI test cases for demonstrating and evaluating eFMI tooling. 
  - [eFMI Container Manager](https://github.com/modelica/efmi-containermanager/releases): Tool for creating, checking, reading and modifying eFMUs and their individual containers.

@@ -1,4 +1,4 @@
-# Graphics:
+# Graphics, videos and document containers:
 *.ai              binary
 *.bmp             binary
 *.eps             binary
@@ -11,10 +11,11 @@
 *.jpeg            binary
 *.jpx             binary
 *.jxr             binary
-*.pdf             binary
 *.png             binary
 *.psb             binary
 *.psd             binary
+*.mp4             binary
+*.pdf             binary
 
 # Do not change line endings by default:
 * -text
