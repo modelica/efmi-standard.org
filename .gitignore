@@ -1,7 +1,7 @@
 # Ignore temporary Microsoft Office files:
 ~$*
 # Ignore HUGO generated files:
-public/
+/public/
 /resources/
 .hugo_build.lock
 .idea/
