@@ -56,8 +56,8 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
  - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-4-Minutes.mp4):
    - 3:20-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
- - [eFMI overview paper (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
-   - Comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_ ([original DOI](https://doi.org/10.3384/ecp2118157)).
+ - [eFMI overview paper (PDF)](https://doi.org/10.3384/ecp2118157) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
+   - Comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_.
  - [eFMI overview presentation (mp4)](/media/resources/Modelica-Conference-2021-MAP-eFMI.mp4) at the "FMI Industrial User Meeting" at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
    - Video explaining how eFMI fits into the standards ecosystem of the [Modelica Association](https://modelica.org/) -- in particular compared to the [FMI Standard](https://fmi-standard.org) -- how eFMI containers look like and how the development of embedded solutions from high-level physics models is fostered by the eFMI workflow and accompanying existing tooling. A short overview of the MAP eFMI and its [development process and release cycle](/standard/) conclude the presentation.
  - [eFMI vs. FMI comparison (mp4)](/media/resources/eFMI-vs-FMI.mp4):
