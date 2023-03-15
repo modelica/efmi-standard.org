@@ -22,7 +22,7 @@ The project leader and deputy project leader are (contact via efmi-info@googlegr
  - Project leader: Christoff Bürger (Dassault Systèmes, Christoff.Buerger@3ds.com)
  - Deputy project leader: Hubertus Tummescheit (Modelon AB)
 
-The members of MAP eFMI, in alphabetic order, are [Altair Engineering Inc.](https://altair.com/), [Dassault Sysèmes](https://www.3ds.com/), [Deutsche Zentrum für Luft- und Raumfahrt e. V.](https://www.dlr.de/), [dSPACE GmbH](https://www.dspace.com/), [ETAS GmbH](https://www.etas.com/en/), [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/), [ESI Group](https://www.esi-group.com/), [Mercedes-Benz AG](https://www.mercedes-benz.com/), [Mitsubishi Electric Research Laboratories](https://www.merl.com/), [Modelon AB](https://www.modelon.com/), [Open Source Modelica Consortium](https://openmodelica.org/home/consortium), [PikeTec GmbH](https://piketec.com/), [Robert Bosch GmbH](https://www.bosch.com/) and [Siemens Digital Industries Software](https://www.sw.siemens.com/).
+The members of MAP eFMI, in alphabetic order, are [Altair Engineering Inc.](https://altair.com/), [Dassault Sysèmes](https://www.3ds.com/), [German Aerospace Center DLR](https://www.dlr.de/), [dSPACE GmbH](https://www.dspace.com/), [ETAS GmbH](https://www.etas.com/en/), [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/), [ESI Group](https://www.esi-group.com/), [Mercedes-Benz AG](https://www.mercedes-benz.com/), [Mitsubishi Electric Research Laboratories](https://www.merl.com/), [Modelon AB](https://www.modelon.com/), [Open Source Modelica Consortium](https://openmodelica.org/home/consortium), [PikeTec GmbH](https://piketec.com/), [Robert Bosch GmbH](https://www.bosch.com/) and [Siemens Digital Industries Software](https://www.sw.siemens.com/).
 
 # Project history{id="Project-history"}
 
@@ -30,7 +30,7 @@ The eFMI technology and standardization have been developed in the [ITEA 3 Call 
 
 A good summary of the outcome is given in the public [ITEA 3 EMPHYSIS industrial demonstrator report](/media/resources/emphysis-public-demonstrator-summary.pdf).
 
-The results of the _EMPHYSIS_ project have been transferd to the in 2021 founded _Modelica Association Project Functional Mock-up Interface for embedded systems_ (MAP eFMI), to prepare them for open access standardization and publication and the organization of a volunteer community promoting and developing eFMI. 11 of the original _EMPHYSIS_ project partners immediately joined MAP eFMI, demonstrating their strong believe and commitment in the eFMI technology.
+The results of the _EMPHYSIS_ project have been transferred to the in 2021 founded _Modelica Association Project Functional Mock-up Interface for embedded systems_ (MAP eFMI), to prepare them for open access standardization and publication and the organization of a volunteer community promoting and developing eFMI. 11 of the original _EMPHYSIS_ project partners immediately joined MAP eFMI, demonstrating their strong believe and commitment in the eFMI technology.
 
 # Legal information{id="Legal-information"}
 

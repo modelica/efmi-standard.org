@@ -10,13 +10,13 @@ This page provides _selected_ MAP eFMI publications, most importantly the _eFMI 
  3. [Project organization](#Project-organization): Bylaws, membership application forms, public project reports etc.
  4. [Recommended documentation and introductory material](#Recommended-documentation-and-introductory-material)
  5. [Example eFMUs](#Example-eFMUs)
-    - [Drivetrain torque controller with eFMI 1.0.0](#Drivetrain-torque-controller-with-eFMI-1.0.0)
+    - [Drivetrain torque controller with eFMI 1.0.0 Alpha 4](#Drivetrain-torque-controller-with-eFMI-1.0.0-Alpha-4)
  
 # _eFMI Standard_ releases{id="eFMI-Standard-releases"}
 
 **Most recent stable release**
 
-There exists no current stable release yet. The upcoming release of _eFMI Standard 1.0.0_ is scheduled for the first quarter of 2023; please cf. the current candidate-drafts.
+There exists no current stable release yet. The first release will be the upcoming _eFMI Standard 1.0.0_; please cf. its current candidate-drafts.
 
 **Current candidate-drafts**
 
@@ -54,10 +54,10 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 **Overview and introduction**
 
- - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-2-Minutes.mp4):
-   - 2-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
+ - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-4-Minutes.mp4):
+   - 3:20-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
  - [eFMI overview paper (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
-   - Comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_.
+   - Comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_ ([original DOI](https://doi.org/10.3384/ecp2118157)).
  - [eFMI overview presentation (mp4)](/media/resources/Modelica-Conference-2021-MAP-eFMI.mp4) at the "FMI Industrial User Meeting" at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
    - Video explaining how eFMI fits into the standards ecosystem of the [Modelica Association](https://modelica.org/) -- in particular compared to the [FMI Standard](https://fmi-standard.org) -- how eFMI containers look like and how the development of embedded solutions from high-level physics models is fostered by the eFMI workflow and accompanying existing tooling. A short overview of the MAP eFMI and its [development process and release cycle](/standard/) conclude the presentation.
  - [eFMI vs. FMI comparison (mp4)](/media/resources/eFMI-vs-FMI.mp4):
@@ -70,11 +70,11 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 # Example eFMUs{id="Example-eFMUs"}
 
-## Drivetrain torque controller with eFMI 1.0.0{id="Drivetrain-torque-controller-with-eFMI-1.0.0"}
+## Drivetrain torque controller with eFMI 1.0.0 Alpha 4{id="Drivetrain-torque-controller-with-eFMI-1.0.0-Alpha-4"}
 
- - [eFMU (zip)](/media/resources/M04-example-eFMU-for-eFMI-1-0-0.zip)
+ - [eFMU (zip)](/media/resources/M04-example-eFMU-for-eFMI-1-0-0-Alpha-4.zip)
 
-Example eFMU with Algorithm Code, Production Code, Binary Code and Behavioral Model containers for a drivetrain torque controller. The example and its original [Modelica](https://modelica.org/modelicalanguage.html) model defining the physics of the drivetrain (the plant model) are test case M04 of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases). The embedded controller developed in the eFMU simply is an inverted model of the drivetrain plant model combined with a simple PI controller. The respective Modelica models of the test setup and controller are:
+Example eFMU with Algorithm Code, Production Code, Binary Code and Behavioral Model containers for a drivetrain torque controller. The example and its original [Modelica](https://modelica.org/modelicalanguage.html) model defining the physics of the drivetrain (the plant model) are test case M04 of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases). The embedded controller developed in the eFMU is an approximated inverse model of the drivetrain plant model combined with a simple PI controller. The respective Modelica models of the test setup and controller are:
 
 ![M04-torque-controller](/media/resources/M04-example-scenario.png)
 

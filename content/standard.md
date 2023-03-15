@@ -27,7 +27,7 @@ _eFMI Standard_ releases and supporting artefacts and tooling are published on t
 
 ## General release organization{id="General-release-organization"}
 
-We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_. We expect the _Voting Candidate_ about the first quarter of 2023.
+We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_.
 
 We aim to release a new major eFMI version (i.e., _eFMI Standard_ and related tooling) about every 2 years; that is our release cycle. In the first year new features are collected and defined, i.e., we design the:
 
@@ -56,12 +56,12 @@ The _Alpha_ versions are likely incomplete with open _"to do"_ sections. The _Be
 All artefacts released by MAP eFMI -- e.g., the eFMI specification text, XML Schema Definitions for container manifests, example eFMUs, the [_eFMI Container Manager_](https://github.com/modelica/efmi-containermanager), [_eFMI Compliance Checker_](https://github.com/modelica/efmi-compliancechecker) and [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) -- use a certain versioning scheme consisting of three digits of the form `MAJOR.MINOR.PATCH`. In principle the scheme follows [Semantic Versioning 2.0.0](https://semver.org/), with the following additional restrictions:
 
 * All artefacts of a _eFMI Standard_ must have the very same version. This means for example, that the versions of the XML Schema Definitions for eFMI container manifests (the XSD files / software artefacts) are aligned with the version of the eFMI specification text that uses this very definitions.
-* If there is ever a need for a new `MINOR` _eFMI Standard_ version (hence a pure bug-fix release of the standard according to the [general release organization](##General release organization)), all artefacts and tooling must provide new releases (incorporating any fix as needed of course), increasing their `MINOR` digit respectively. I.e., the `MINOR` digit denotes consecutive bug-fix releases of the _eFMI Standard_ and the tooling for it.
+* If there is ever a need for a new `MINOR` _eFMI Standard_ version (hence a pure bug-fix release of the standard according to the [general release organization](#General-release-organization)), all artefacts and tooling must provide new releases (incorporating any fix as needed of course), increasing their `MINOR` digit respectively. I.e., the `MINOR` digit denotes consecutive bug-fix releases of the _eFMI Standard_ and the tooling for it.
 * The `PATCH` digit is only used by artefacts and tooling for some _eFMI Standard_, but never _eFMI Standards_ (their `PATCH` digit always is 0). This means, that pure tooling bug-fix releases, for the very same _eFMI Standard_ version, is denoted by increasing `PATCH` digits of the version of the respective tooling.
 
 **Example:** _A eFMI Container Manager 1.1.3 release is the third release of the tool for the eFMI Standard 1.1.0, which was a bug-fix release for the eFMI Standard 1.0.0, whereas a eFMI Container Manager 2.0.0 release is the first tooling release for a completely new major eFMI Standard release._
 
-We like to stress that `MINOR` _eFMI Standard_ version changes are pure bug-fix releases as explained in the [general release organization](##General release organization)! This means, no new features are added in such. For that reason it is valid to just talk about, e.g., _eFMI 1_ vs. _eFMI 2_ etc when denoting the features and general tooling of some eFMI technology space.
+We like to stress that `MINOR` _eFMI Standard_ version changes are pure bug-fix releases as explained in the [general release organization](#General-release-organization)! This means, no new features are added in such. For that reason it is valid to just talk about, e.g., _eFMI 1_ vs. _eFMI 2_ etc when denoting the features and general tooling of some eFMI technology space.
 
 # Backwards compatibility{id="Backwards-compatibility"}
 
