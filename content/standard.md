@@ -2,8 +2,6 @@
 title: Standard
 ---
 
-![eFMI-roadmap](/media/standard/eFMI-roadmap.png)
-
 [//]: # "# _eFMI Standard_: Licensing, release cycle and release schedule"
 
 This page gives a short overview of the development process of the _eFMI Standard_, its licensing, release cycle, backwards compatibility and issue system. The actual _eFMI Standard_ can be found on the [Resources page](/resources/). The topics covered in the following are:
