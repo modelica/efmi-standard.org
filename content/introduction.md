@@ -16,9 +16,9 @@ This page gives an overview of the general objectives and concepts of eFMI, its 
  2. [eFMI highlights](#eFMI-highlights)
  3. [Project organization and community](#Project-organization-and-community)
 
-In a nutshell, eFMI can be depicted as a bridge between the modelling & simulation and the embedded software world; it can be summarized in three sentences:
+In a nutshell, eFMI can be depicted as a bridge between the modeling & simulation and the embedded software world; it can be summarized in three sentences:
 
-> _"The eFMI Standard is an open standard for the step-wise, model-transformation-based development of advanced control functions suited for safety-critical and real time targets. Its container architecture defines the common ground for collaboration among the stake-holders and tooling along the various abstraction levels from high-level modelling and simulation – e.g., a-causal, equation-based physics in Modelica – down to actual embedded code. The model representations it defines are interlinked for traceability and semi-automatic code generation and do not only capture functional, but also non-functional quality requirements like coding standards, static memory allocation, worst time execution and documentation, eventually enabling credible development within a standardized workspace."_ -- eFMI in three sentences.
+> _"The eFMI Standard is an open standard for the step-wise, model-transformation-based development of advanced control functions suited for safety-critical and real time targets. Its container architecture defines the common ground for collaboration among the stake-holders and tooling along the various abstraction levels from high-level modeling and simulation – e.g., a-causal, equation-based physics in Modelica – down to actual embedded code. The model representations it defines are interlinked for traceability and semi-automatic code generation and do not only capture functional, but also non-functional quality requirements like coding standards, static memory allocation, worst time execution and documentation, eventually enabling credible development within a standardized workspace."_ -- eFMI in three sentences.
 
 # eFMI overview{id="eFMI-overview"}
 
@@ -28,7 +28,7 @@ The main purpose of the _"[Modelica Association](https://modelica.org/) Project 
 
 ### Container architecture and model representations{id="Container-architecture-and-model-representations"}
 
-The _eFMI Standard_ can be thought of as a bridge closing the gap between the modelling and simulation world and the embedded software world. It defines a container architecture with various model representations to capture all activities of the required credible model transformation process:
+The _eFMI Standard_ can be thought of as a bridge closing the gap between the modeling and simulation world and the embedded software world. It defines a container architecture with various model representations to capture all activities of the required credible model transformation process:
 
 - Behavior / reference results for testing (eFMI Behavioral Model containers).
 - Target-independent algorithmic solution with guarantees on exception-free execution, error handling, worst time execution and memory requirements (eFMI Algorithm Code container) based on eFMI GALEC (***G***uarded ***A***lgorithmic ***L***anguage for ***E***mbedded ***C***ontrol).
@@ -64,7 +64,7 @@ A
 Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is still in development](../eFMI-Standard/candidate-drafts-of-next-release.md). It will comprise the following highlights:
 
 * [Open](../eFMI-Standard/index.md), [freely available](../eFMI-Standard/current-stable-releases.md), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
-* Driven by [open-source, research and industrial](project-organization-and-community.md##Project members) tool-vendors and users from the modelling & simulation to the safety-critical embedded software domains.
+* Driven by [open-source, research and industrial](project-organization-and-community.md##Project members) tool-vendors and users from the modeling & simulation to the safety-critical embedded software domains.
 * Supporting [tools](../Tools/index.md) are first-class in their field of expertise, e.g., physics modeling (Dymola 2023), embedded development and rapid prototyping (TargetLink 2022 B), software- and Hardware-in-the-Loop (SiL, HiL) testing (TPT 19) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial testsuite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
 * Standardized workspace based on an open container architecture for cross-vendor tooling integration, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
