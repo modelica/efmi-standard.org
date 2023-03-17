@@ -24,9 +24,7 @@ The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the 
 
  - _eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:
    - [_eFMI Standard 1.0.0 Alpha 4_ (zip)](/media/resources/eFMI-Standard-1.0.0-Alpha-4.zip)
-   - [Browsable specification text only (HTML)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text.html)
-   - [Printer-suited specification text only (PDF)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text.pdf)
-   - [Specification with change-marks to previous draft (PDF)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text-changemarks.pdf)
+   - [Specification text with change-marks to previous draft (PDF)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text-changemarks.pdf)
 
 **Previous stable releases**
 

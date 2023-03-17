@@ -49,11 +49,11 @@ Starting point of every eFMI-based development project is the generation (or man
 
 In above example, the source is a physics model in [Modelica](https://modelica.org/modelicalanguage.html) and the final target a BOSCH MDG1 embedded control unit (ECU); the individual, mostly automatized development steps are:
 
-* Generation of an algorithmic GALEC program from an a-causal physics-equations model in Modelica (eFMI Algorithm Code container generated with, e.g., Amesim, Dymola or SimulationX).
-* Design and generation of reference test scenarios from simulations of the physics model (eFMI Behavioral Model containers generated with, e.g., Dymola).
-* Generation of production codes from the algorithmic GALEC solution (eFMI Production Code containers generated with, e.g., CATIA ESP, TargetLink oder SCODE-CONGRA).
-* Generation of executable binary codes from production codes (eFMI Binary Code containers for, e.g., the [AUTOSAR Adaptive Platform](https://www.autosar.org/) generated with, e.g., AUTOSAR Builder).
-* Static program analyses and testing of production and binary codes with, e.g., Astrée and TPT, on a concrete target platform, e.g., BOSCH MDG1.
+* Generation of an algorithmic GALEC program from an a-causal physics-equations model in Modelica (eFMI Algorithm Code container generated with, e.g., [Simcenter Amesim](https://plm.sw.siemens.com/en-US/simcenter/systems-simulation/amesim/), [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) or [SimulationX](https://www.esi-group.com/products/simulationx)).
+* Design and generation of reference test scenarios from simulations of the physics model (eFMI Behavioral Model containers generated with, e.g., [Dymola](https://www.3ds.com/products-services/catia/products/dymola/)).
+* Generation of production codes from the algorithmic GALEC solution (eFMI Production Code containers generated with, e.g., CATIA ESP, [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) or SCODE-CONGRA).
+* Generation of executable binary codes from production codes (eFMI Binary Code containers for, e.g., the [AUTOSAR Adaptive Platform](https://www.autosar.org/) generated with, e.g., [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/)).
+* Static program analyses and testing of production and binary codes with, e.g., [Astrée](https://www.absint.com/astree/index.htm) and [TPT](https://piketec.com/tpt/), on a concrete target platform, e.g., BOSCH MDG1.
 
 ### Proof of the pudding{id="Proof-of-the-pudding"}
 
@@ -65,7 +65,7 @@ Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is s
 
 * [Open, freely available](/standard/#eFMI-Standard-releases-and-licensing), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
 * Driven by [open-source, research and industrial](/about/#MAP-eFMI-members) tool-vendors and users from the modeling & simulation to the safety-critical embedded software domains.
-* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling (Dymola 2023), embedded development and rapid prototyping (TargetLink 2022 B), software- and Hardware-in-the-Loop (SiL, HiL) testing (TPT 19) etc.
+* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola 2023](https://www.3ds.com/products-services/catia/products/dymola/)), embedded development and rapid prototyping ([TargetLink  22.1](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT 19](https://piketec.com/tpt/)) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial testsuite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
 * Standardized workspace based on an open container architecture for cross-vendor tooling integration, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
   * **Behavioral Model:** Reference behavior design and testing.
