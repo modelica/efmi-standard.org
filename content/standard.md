@@ -5,15 +5,10 @@ title: Standard
 [//]: # "# _eFMI Standard_: Licensing, release cycle and release schedule"
 
 This page gives a short overview of the development process of the _eFMI Standard_, its licensing, release cycle, backwards compatibility and issue system. The actual _eFMI Standard_ can be found on the [Resources page](/resources/). The topics covered in the following are:
- 1. [eFMI Standard releases and licensing](#eFMI-Standard-releases-and-licensing)
- 2. [Release cycle and versioning](#Release-cycle-and-versioning)
-    - [General release organization](#General-release-organization)
-	- [Schedule of individual releases](#Schedule-of-individual-releases)
-	- [Versioning scheme](#Versioning-scheme)
- 3. [Backwards compatibility](#Backwards-compatibility)
- 4. [Reporting specification issues and new feature requests](#Reporting-specification-issues-and-new-feature-requests)
 
-# eFMI Standard releases and licensing{id="eFMI-Standard-releases-and-licensing"}
+{{< toc >}}
+
+## eFMI Standard releases and licensing
 
 The _eFMI Standard_ is a freely available, open, cross-community and cross-vendor developed standard.
 
@@ -23,9 +18,9 @@ All other -- i.e., _not_ part of any _eFMI Standard_ version -- software artefac
 
 _eFMI Standard_ releases and supporting artefacts and tooling are published on the [Resources page](/resources/).
 
-# Release cycle and versioning{id="Release-cycle-and-versioning"}
+## Release cycle and versioning
 
-## General release organization{id="General-release-organization"}
+### General release organization
 
 We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_.
 
@@ -45,13 +40,13 @@ We avoid minor standard versions. Such are *only* for bug-fixes. We are rigorous
 
 This means, that _eFMI Standard_ releases and tooling releases are coordinated (which is reflected in our [versioning scheme](#Versioning-scheme)). After all, the eFMI technology is not useful if users have no access to a working _toolchain_ from high-level a-causal modeling and simulation to target-specific embedded code.
 
-## Schedule of individual releases{id="Schedule-of-individual-releases"}
+### Schedule of individual releases
 
 First candidate-drafts of a new _eFMI Standard_ version are earliest released in the second year of development. Typically there are an _Alpha 1_, _Alpha 2_, _Beta 1_, _Beta 2_ and finally _Voting Candidate_ draft versions of the currently developed standard before its final release, roughly evenly spread out within the second year.
 
 The _Alpha_ versions are likely incomplete with open _"to do"_ sections. The _Beta_ versions are complete, but with edges and corners that are to be polished. The _Voting Candidate_ is polished and as far as we know the final version. We only expect typo and minor language improvements as feedback for a _Voting Candidate_; otherwise this is the candidate we will push in the [Modelica Association](https://modelica.org/) for public release approval.
 
-## Versioning scheme{id="Versioning-scheme"}
+### Versioning scheme
 
 All artefacts released by MAP eFMI -- e.g., the eFMI specification text, XML Schema Definitions for container manifests, example eFMUs, the [_eFMI Container Manager_](https://github.com/modelica/efmi-containermanager), [_eFMI Compliance Checker_](https://github.com/modelica/efmi-compliancechecker) and [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) -- use a certain versioning scheme consisting of three digits of the form `MAJOR.MINOR.PATCH`. In principle the scheme follows [Semantic Versioning 2.0.0](https://semver.org/), with the following additional restrictions:
 
@@ -63,7 +58,7 @@ All artefacts released by MAP eFMI -- e.g., the eFMI specification text, XML Sch
 
 We like to stress that `MINOR` _eFMI Standard_ version changes are pure bug-fix releases as explained in the [general release organization](#General-release-organization)! This means, no new features are added in such. For that reason it is valid to just talk about, e.g., _eFMI 1_ vs. _eFMI 2_ etc when denoting the features and general tooling of some eFMI technology space.
 
-# Backwards compatibility{id="Backwards-compatibility"}
+## Backwards compatibility
 
 Our target domain -- embedded, safety critical, real time software -- is strict, in fact ridiculous strict, when it comes to documenting, archiving, certifying and sticking to the defined tooling versions throughout the whole development cycle of an embedded project. Changing tooling in the middle of embedded development projects comes with _severe_ requirements on documentation, auditing and certification. In fact, it is not likely to be required because the used tooling is typically extensively tested, or even certified, before being deployed. It is very unlikely that a show-stopper tooling-bug is encountered, which means that one is typically much better of to work around minor tooling-bugs than going through the hassle to document and recertify a tool change.
 
@@ -71,6 +66,6 @@ Considering that the eFMI technology requires a toolchain, we can safely assume 
 
 MAP eFMI therefore reserves the right of -- and in fact very likely will introduce -- backwards compatibility breaking _eFMI Standard_ changes from one `MAJOR` version to the next. Embedded developers can switch to new eFMI tooling at the beginning of their next project (which can in fact be to port a released version of an existing project to a newer _eFMI Standard_ as part of its next release -- a task that should not be underestimated).
 
-# Reporting specification issues and new feature requests{id="Reporting-specification-issues-and-new-feature-requests"}
+## Reporting specification issues and new feature requests
 
 You can report any specification issues you found via the [GitHub issue tracker](https://github.com/modelica/efmi-standard.org/issues). Before opening any new issues, please consult the [contributing and repository policy](https://github.com/modelica/efmi-standard.org/blob/main/CONTRIBUTING.md) first. If you create a new issue, please use the label `eFMI Standard` and denote the troublesome version of the standard first in the issue title, e.g., _"eFMI 1.0.0 Alpha 4: The links in Chapter Foo-Bar are broken"_. Further, use the `bug` label for real specification bugs, the `enhancement` label for general new feature requests and the `question` label for general discussions.
