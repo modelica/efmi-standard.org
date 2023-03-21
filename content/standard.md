@@ -1,5 +1,6 @@
 ---
 title: Standard
+contactFooter: true
 ---
 
 [//]: # "# _eFMI Standard_: Licensing, release cycle and release schedule"

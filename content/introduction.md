@@ -1,5 +1,6 @@
 ---
 title: Introduction
+contactFooter: true
 ---
 
 ![eFMI-physics-simulation-to-embedded-systems-bridge](/media/introduction/eFMI-bridge.png)

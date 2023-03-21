@@ -1,5 +1,6 @@
 ---
 title: About
+contactFooter: true
 ---
 
 ![MAP-eFMI-members](/media/about/MAP-eFMI-members.png)
