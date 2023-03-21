@@ -5,7 +5,7 @@ contactFooter: true
 
 ![MAP-eFMI-members](/media/about/MAP-eFMI-members.png)
 
-This page lists the project members, history of the project and legal information. Forms to apply for membership or the project bylaws can be found on the [Resources page](/resources/#Project-organization); an overview of eFMI and the project organization can be found on the [Introduction page](/introduction/). The topics covered in the following are:
+This page lists the project members, history of the project and legal information. Forms to apply for membership or the project bylaws can be found on the [Resources page](/resources/#project-organization); an overview of eFMI and the project organization can be found on the [Introduction page](/introduction/). The topics covered in the following are:
 
 {{< toc >}}
 

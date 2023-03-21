@@ -15,7 +15,7 @@ There exists no current stable release yet. The first release will be the upcomi
 
 **Current candidate-drafts**
 
-The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the candidate-drafts for it. Please cf. [the release cycle](/standard/#Release-cycle-and-versioning) for details about the release schedule and for an estimation of maturity of candidate-drafts.
+The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the candidate-drafts for it. Please cf. [the release cycle](/standard/#release-cycle-and-versioning) for details about the release schedule and for an estimation of maturity of candidate-drafts.
 
  - _eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:
    - [_eFMI Standard 1.0.0 Alpha 4_ (zip)](/media/resources/eFMI-Standard-1.0.0-Alpha-4.zip)
@@ -27,7 +27,7 @@ There are no previous stable releases yet. We are still in the process of finish
 
 ## MAP eFMI published tooling
 
-MAP eFMI provides a set of open source tools and libraries to foster the eFMI ecosystem. For not by MAP eFMI released tooling, including commercial tools, please cf. the [Tools page](/tools/). For final release distributions of MAP eFMI published tooling, please check each individual tool's repository; note, that we apply a unique [versioning scheme](/standard/#Versioning-scheme) such that every tool version can be mapped to the _eFMI Standard_ it supports and vice-versa. The tools published by MAP eFMI are:
+MAP eFMI provides a set of open source tools and libraries to foster the eFMI ecosystem. For not by MAP eFMI released tooling, including commercial tools, please cf. the [Tools page](/tools/). For final release distributions of MAP eFMI published tooling, please check each individual tool's repository; note, that we apply a unique [versioning scheme](/standard/#versioning-scheme) such that every tool version can be mapped to the _eFMI Standard_ it supports and vice-versa. The tools published by MAP eFMI are:
 
  - [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases/releases): Official eFMI test cases for demonstrating and evaluating eFMI tooling. 
  - [eFMI Container Manager](https://github.com/modelica/efmi-containermanager/releases): Tool for creating, checking, reading and modifying eFMUs and their individual containers.
@@ -59,7 +59,7 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 **Use-cases and industrial applications**
 
  - [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf):
-   - Final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (cf. the [About page](/about/#Project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessement conducted to compare eFMI with state of the art embedded software development, the testsuite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution. 
+   - Final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (cf. the [About page](/about/#project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessement conducted to compare eFMI with state of the art embedded software development, the testsuite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution. 
 
 ## Example eFMUs
 
