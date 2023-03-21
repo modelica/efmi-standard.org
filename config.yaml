@@ -4,6 +4,7 @@ theme: ma-hugo-theme
 params:
   logo: /media/eFMI-logo-no-text.svg
   github: modelica/efmi-standard.org
+  email: efmi-info@googlegroups.com
 menu:
   main:
     - pageRef: "introduction"

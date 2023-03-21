@@ -2,17 +2,11 @@
 title: Resources
 ---
 
-[//]: # "# Project resources: Forms, documentation, use-cases and example eFMUs"
-
 This page provides _selected_ MAP eFMI publications, most importantly the _eFMI Standard_, but also accompanying documents like example eFMUs, introductory presentations, overview papers, project reports and forms etc. For an overview of 3rd party eFMI tooling, please consult the [Tools page](/tools/). The publications of MAP eFMI can be categorized in:
- 1. [eFMI Standard releases](#eFMI-Standard-releases): Most recent stable release, current candidate-drafts and previous stable releases.
- 2. [MAP eFMI published tooling](#MAP-eFMI-published-tooling)
- 3. [Project organization](#Project-organization): Bylaws, membership application forms, public project reports etc.
- 4. [Recommended documentation and introductory material](#Recommended-documentation-and-introductory-material)
- 5. [Example eFMUs](#Example-eFMUs)
-    - [Drivetrain torque controller with eFMI 1.0.0 Alpha 4](#Drivetrain-torque-controller-with-eFMI-1.0.0-Alpha-4)
+
+{{< toc >}}
  
-# _eFMI Standard_ releases{id="eFMI-Standard-releases"}
+## _eFMI Standard_ releases
 
 **Most recent stable release**
 
@@ -30,7 +24,7 @@ The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the 
 
 There are no previous stable releases yet. We are still in the process of finishing the first official release; please cf. the current candidate-drafts.
 
-# MAP eFMI published tooling{id="MAP-eFMI-published-tooling"}
+## MAP eFMI published tooling
 
 MAP eFMI provides a set of open source tools and libraries to foster the eFMI ecosystem. For not by MAP eFMI released tooling, including commercial tools, please cf. the [Tools page](/tools/). For final release distributions of MAP eFMI published tooling, please check each individual tool's repository; note, that we apply a unique [versioning scheme](/standard/#Versioning-scheme) such that every tool version can be mapped to the _eFMI Standard_ it supports and vice-versa. The tools published by MAP eFMI are:
 
@@ -38,7 +32,7 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
  - [eFMI Container Manager](https://github.com/modelica/efmi-containermanager/releases): Tool for creating, checking, reading and modifying eFMUs and their individual containers.
  - [eFMI Compliance Checker](https://github.com/modelica/efmi-compliancechecker/releases): Tool for checking eFMUs for conformance with the _eFMI Standard_. 
 
-# Project organization{id="Project-organization"}
+## Project organization
 
  - [MAP eFMI bylaws (PDF)](/media/resources/MAP-eFMI-bylaws.pdf)
  - [Membership application guidelines and form (PDF)](/media/resources/MAP-eFMI-application.pdf)
@@ -48,7 +42,7 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
  - [Annual project report 2021](/media/resources/MAP-eFMI-annual-project-report-2021.pdf)
  
-# Recommended documentation and introductory material{id="Recommended-documentation-and-introductory-material"}
+## Recommended documentation and introductory material{id="Recommended-documentation-and-introductory-material"}
 
 **Overview and introduction**
 
@@ -66,9 +60,9 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
  - [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf):
    - Final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (cf. the [About page](/about/#Project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessement conducted to compare eFMI with state of the art embedded software development, the testsuite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution. 
 
-# Example eFMUs{id="Example-eFMUs"}
+## Example eFMUs
 
-## Drivetrain torque controller with eFMI 1.0.0 Alpha 4{id="Drivetrain-torque-controller-with-eFMI-1.0.0-Alpha-4"}
+### Drivetrain torque controller with eFMI 1.0.0 Alpha 4
 
  - [eFMU (zip)](/media/resources/M04-example-eFMU-for-eFMI-1-0-0-Alpha-4.zip)
 
