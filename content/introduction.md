@@ -53,9 +53,14 @@ In above example, the source is a physics model in [Modelica](https://modelica.o
 The eFMI workflow presented in the previous section has been intensively tested using prototype tooling and industrial demonstrators developed throughout the EMPHYSIS research project [from which MAP eFMI originates](../about#project-history). This experience is proof of the pudding; the numbers speak for themselves:
 
  1. Test set comprising:
-    - 6 industry-driven demonstrators, summarized in the [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf)
+    - 6 industry-driven demonstrators, summarized in the [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf). For example:
+	  - Semic-active damping controller with nonlinear inverse model and nonlinear Kalman filter
+	  - Transmission model of whole drivetrain as virtual sensor
+	  - Dual-clutch transmission diagnosis virtual sensor
+	  - Powertrain Vibration Reduction controller
+	  - Advanced Emergency Braking System (AEBS) controller
     - [Modelica library](https://github.com/modelica/efmi-testcases) with 22 test cases, each with several modelling and simulation variants
-	- Requiring support for
+	- Requiring support for:
 	  - Inverse model or feedback linearization based control
 	  - Explicit and implicit integration schemes
 	  - Solving linear equation systems
@@ -72,6 +77,7 @@ The eFMI workflow presented in the previous section has been intensively tested 
  3. For a selected subset of examples an assessment vs. current state of the art hand-crafted embedded solution development, confirming:
     - A productivity gain of ~90%
 	- A speed-up in runtime of ~40%
+ 4. [ITEA Awards of Excellence](https://itea4.org/press-release/press-release-emphysis-the-missing-link-between-digital-simulation-and-embedded-software.html) for EMPHYSIS
 
 In the end, eFMI is easier to show than to describe. The magic is in the tools; the _eFMI Standard_ is not the user experience, but coordinates tool development and integration. As a user you _"can just enjoy"_ a seamless tooling from modeling to embedded implementation. Contact us for a demonstration of, for example, a tooling from a [Modelica](https://modelica.org/modelicalanguage.html) physics-model of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) ⇒ [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) 🡆 CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) 🡆 [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/) ⇒ to a [AUTOSAR Adaptive Platform](https://www.autosar.org/standards/adaptive-platform) component.
 
