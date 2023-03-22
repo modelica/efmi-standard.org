@@ -37,14 +37,8 @@ menu:
       url: /news/
       weight: 5
     
-    - pageRef: faq
-      identifier: faq
-      name: FAQ
-      url: /faq/
-      weight: 6
-    
     - pageRef: about
       identifier: about
       name: About
       url: /about/
-      weight: 7
+      weight: 6
