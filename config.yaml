@@ -7,10 +7,10 @@ params:
   email: efmi-info@googlegroups.com
 menu:
   main:
-    - pageRef: "introduction"
-      identifier: "introduction"
-      name: "Introduction"
-      url: "/introduction/"
+    - pageRef: introduction
+      identifier: introduction
+      name: Introduction
+      url: /introduction/
       weight: 1
     
     - pageRef: resources
