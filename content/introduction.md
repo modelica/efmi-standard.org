@@ -50,7 +50,7 @@ In above example, the source is a physics model in [Modelica](https://modelica.o
 
 ### Proof of the pudding
 
-A
+Coming soon...
 
 ## eFMI highlights
 
@@ -68,3 +68,11 @@ Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is s
   * Common -- i.e., across all container types provided -- meta-information like cross-referencing for dependency tracking, checksums for automatic stale-artefact analysis, generation dates, copyright and licensing, container descriptions etc.
 
 ## Project organization and community
+
+Development of the _eFMI Standard_ is organised as [Modelica Association Project (MAP)](https://modelica.org/projects.html) under the roof of the [Modelica Association](https://modelica.org/). You can find the project bylaws and application forms on the [Resources page](/resources/#project-organization) and an overview of project members on the [About page](/about/#map-efmi-members).
+
+We follow a well-defined release-cycle and versioning scheme described on the [Standard page](/standard/#release-cycle-and-versioning). There, also details on how to report issues of the _eFMI Standard_ [can be found](/standard/#reporting-specification-issues-and-new-feature-requests). Note, that the currently in development _eFMI Standard_ version -- except [deliberately released candidate-drafts](/resources/#_efmi-standard_-releases) -- is not public, as is the specification repository; you have to be a project member to get access to our private repositories and an official saying in standardization decissions.
+
+If you have any open questions, don't hesitate to write us on efmi-info@googlegroups.com.
+
+And last but not least, all material distributed by MAP eFMI, including on this website, [is open source](/about/#legal-information); please feel free to reuse it for explaining and promoting eFMI.
