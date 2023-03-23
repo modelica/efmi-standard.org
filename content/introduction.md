@@ -54,13 +54,13 @@ The eFMI workflow presented in the previous section has been intensively tested 
 
 **Comprehensive examples:**
 
- - 6 industry-driven demonstrators, summarized in the [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf). For example:
+ - 11 industry-driven demonstrators, summarized in the [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf). For example:
    - [Semic-active damping controller with nonlinear inverse model and nonlinear Kalman filter](https://www.mdpi.com/2076-0825/10/11/301)
    - Transmission model of whole drivetrain as virtual sensor
    - Dual-clutch transmission diagnosis virtual sensor
    - Powertrain vibration reduction controller
    - Advanced emergency braking system controller
- - [Open source Modelica library](https://github.com/modelica/efmi-testcases) with 22 test cases, each with several modelling and simulation variants
+ - [Open source Modelica library](https://github.com/modelica/efmi-testcases) with 22 test cases with ~40 real time simulation configurations
  - Requiering support for:
    - Inverse model or feedback linearization based control
    - Explicit and implicit integration schemes
@@ -74,19 +74,19 @@ The eFMI workflow presented in the previous section has been intensively tested 
 
 **eFMI prototype support in established tooling:**
 
- - eFMI prototype-extensions in 9 commercial tools
- - 50 well-tested toolchain paths
+ - eFMI prototype-extensions in 9 well-established commercial tools; 13 tool prototypes in total
  - Support for the whole eFMI workflow (Algorithm Code, Production Code, Binary Code and Behavioral Model containers)
-
+ - 50 well-tested workflow paths between various tools from different companies
+ 
 **Uncompromising assessment:**
 
  - For a selected subset of examples an assessment vs. state of the art hand-crafted embedded solutions, confirming:
     - A productivity gain of ~90%
     - A speed-up in runtime of ~40%
 
-**Ultimately gaining EMPHYSIS the highest scored [ITEA Awards of Excellence](https://itea4.org/press-release/press-release-emphysis-the-missing-link-between-digital-simulation-and-embedded-software.html) of 2021!**
+**EMPHYSIS won the [ITEA Award of Excellence 2021](https://itea4.org/press-release/press-release-emphysis-the-missing-link-between-digital-simulation-and-embedded-software.html), honored with a _Special Vice-chairman award_ title for being one of the highest scored ITEA projects to date!**
 
-![EMPHYSIS-ITEA-Award-of-Excellence](/media/introduction/EMPHYSIS-ITEA-Award-of-Excellence.png)
+![EMPHYSIS-ITEA-Award-of-Excellence](/media/about/EMPHYSIS-ITEA-Award-of-Excellence.png)
 
 In the end, eFMI is easier to show than to describe. The magic is in the tools; the _eFMI Standard_ is not the user experience, but coordinates tool development and integration. As a user you _"can just enjoy"_ a seamless tooling from modeling to embedded implementation. Contact us for a demonstration of, for example, a tooling from a [Modelica](https://modelica.org/modelicalanguage.html) physics-model of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) 🡆 [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) 🡆 CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) 🡆 [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/) 🡆 to an [AUTOSAR Adaptive Platform](https://www.autosar.org/standards/adaptive-platform) component.
 
