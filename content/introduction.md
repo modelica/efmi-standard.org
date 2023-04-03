@@ -13,7 +13,7 @@ This page gives an overview of the general objectives and concepts of eFMI, its 
 
 In a nutshell, eFMI can be depicted as a bridge between the modeling & simulation and the embedded software world; it can be summarized in three sentences:
 
-> _"The eFMI Standard is an open standard for the stepwise, model-transformation-based development of advanced control functions suited for safety-critical and real time targets. Its container architecture defines the common ground for collaboration among the stake-holders and tooling along the various abstraction levels from high-level modeling and simulation – e.g., acausal, equation-based physics in Modelica – down to actual embedded code. The model representations it defines are interlinked for traceability and semi-automatic code generation and do not only capture functional, but also non-functional quality requirements like coding standards, static memory allocation, worst time execution, and documentation, enabling credible development within a standardized workspace."_ -- eFMI in three sentences.
+> _"The eFMI Standard is an open standard for the stepwise, model-transformation-based development of advanced control functions suited for safety-critical and real time targets. Its container architecture defines the common ground for collaboration among the stake-holders and toolchain along the various abstraction levels from high-level modeling and simulation – e.g., acausal, equation-based physics in Modelica – down to actual embedded code. The model representations it defines are interlinked for traceability and semi-automatic code generation and do not only capture functional, but also non-functional quality requirements like coding standards, static memory allocation, worst time execution, and documentation, enabling credible development within a standardized workspace."_ -- eFMI in three sentences.
 
 ### Objective
 
@@ -30,15 +30,15 @@ The _eFMI Standard_ can be thought of as a bridge closing the gap between the mo
 
 ### Collaborative workspaces (eFMUs)
 
-Instances of the various eFMI container types -- each reflecting one aspect/step of the automatic transformation of some high-level model to an embedded solution -- are bundled in eFMUs (embedded Functional Mock-up Units). Each eFMU is one _shared/collaborative_ development workspace; shared hereby means that different stakeholders -- from simulation designers to embedded developers -- are working together using various eFMI tooling from different tool vendors to eventually implement the final embedded solution(s). The various containers of an eFMU reflect the development steps and intermediate artefacts that have been incrementally developed. Each used tool can be dedicated and prove itself on one abstraction and transformation level. The whole toolchain compatibility is ensured by the _eFMI Standard_ and its common means for cross-referencing and dependency tracking for traceability, hashing (checksums) for automatic stale-artefact analysis and copyright, licensing and description annotations for intellectual property protection and documentation.
+Instances of the various eFMI container types -- each reflecting one aspect/step of the automatic transformation of some high-level model to an embedded solution -- are bundled in eFMUs (embedded Functional Mock-up Units). Each eFMU is one _shared/collaborative_ development workspace; shared hereby means that different stakeholders -- from simulation designers to embedded developers -- are working together using various eFMI toolchain from different tool vendors to eventually implement the final embedded solution(s). The various containers of an eFMU reflect the development steps and intermediate artefacts that have been incrementally developed. Each used tool can be dedicated and prove itself on one abstraction and transformation level. The whole toolchain compatibility is ensured by the _eFMI Standard_ and its common means for cross-referencing and dependency tracking for traceability, hashing (checksums) for automatic stale-artefact analysis and copyright, licensing and description annotations for intellectual property protection and documentation.
 
-### Workflow and tooling
+### Workflow and toolchain
 
-The general eFMI workflow is sketched by the following figure, demonstrating actual eFMI prototype tooling that has been developed in the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project, [which finished in February 2021](../about#project-history):
+The general eFMI workflow is sketched by the following figure, demonstrating actual eFMI prototype toolchain that has been developed in the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project, [which finished in February 2021](../about#project-history):
 
 ![eFMI-workflow](/media/introduction/eFMI-workflow.png)
 
-The starting point of every eFMI-based development project is the generation (or manual development) of an algorithmic, sampled input-output-block in eFMI GALEC, a new real time and safety-critical domain suited imperative language for the definition of mathematical algorithms. Given a GALEC program in an eFMI Algorithm Code container generated by some simulation tooling, further model transformations along the various eFMI abstraction levels down to actual embedded code can be conducted with respective eFMI tooling provided by third party tool vendors assuming they support the targeted embedded execution environment and hardware architecture (target platform).
+The starting point of every eFMI-based development project is the generation (or manual development) of an algorithmic, sampled input-output-block in eFMI GALEC, a new real time and safety-critical domain suited imperative language for the definition of mathematical algorithms. Given a GALEC program in an eFMI Algorithm Code container generated by some simulation toolchain, further model transformations along the various eFMI abstraction levels down to actual embedded code can be conducted with respective eFMI toolchain provided by third party tool vendors assuming they support the targeted embedded execution environment and hardware architecture (target platform).
 
 In the above example, the source is a physics model in [Modelica](https://modelica.org/modelicalanguage.html) and the final target a BOSCH MDG1 embedded control unit (ECU); the individual, mostly automatized development steps are:
 
@@ -50,7 +50,7 @@ In the above example, the source is a physics model in [Modelica](https://modeli
 
 ### Proof of the pudding
 
-The eFMI workflow presented in the previous section has been intensively tested using prototype tooling and industry-driven demonstrators developed throughout the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project [from which MAP eFMI originates](../about#project-history). This experience is proof of the pudding; consider the following numbers, speaking for themselves.
+The eFMI workflow presented in the previous section has been extensively tested using a prototype toolchain and industry-driven demonstrators developed throughout the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project [from which MAP eFMI originates](../about#project-history). This experience is the "proof of the pudding"; consider the following results, speaking for themselves.
 
 **Comprehensive examples:**
 
@@ -60,10 +60,10 @@ The eFMI workflow presented in the previous section has been intensively tested 
    - Dual-clutch transmission diagnosis virtual sensor
    - Powertrain vibration reduction controller
    - Advanced emergency braking system controller
- - [Open source Modelica library](https://github.com/modelica/efmi-testcases) with 22 test cases with ~40 real time simulation configurations
+ -  An [Open source Modelica library](https://github.com/modelica/efmi-testcases) with 22 test cases with ~40 real time simulation configurations
  - Requiring support for:
    - Inverse model or feedback linearization based control
-   - Explicit and implicit integration schemes
+   - Explicit and implicit fixed-step integration schemes
    - Solving linear equation systems
    - Mixed system of equations with mutually-dependent control-conditionals and physics
    - Event-based re-initialization of continuous states
@@ -72,7 +72,7 @@ The eFMI workflow presented in the previous section has been intensively tested 
    - Guaranteed error handling
    - Guaranteed saturation of control states, in- and outputs
 
-**eFMI prototype support in established tooling:**
+**eFMI prototype support in established toolchains:**
 
  - eFMI prototype-extensions in 9 well-established commercial tools; 13 tool prototypes in total
  - Support for the whole eFMI workflow (Algorithm Code, Production Code, Binary Code and Behavioral Model containers)
@@ -88,17 +88,17 @@ The eFMI workflow presented in the previous section has been intensively tested 
 
 ![EMPHYSIS-ITEA-Award-of-Excellence](/media/about/EMPHYSIS-ITEA-Award-of-Excellence.png)
 
-In the end, eFMI is easier to show than to describe. The magic is in the tools; the _eFMI Standard_ is not the user experience, but coordinates tool development and integration. As a user you can just enjoy a seamless tooling from modeling to embedded implementation. Contact us for a demonstration of, for example, a tooling from a [Modelica](https://modelica.org/modelicalanguage.html) physics-model of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) 🡆 [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) 🡆 CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) 🡆 [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/) 🡆 to an [AUTOSAR Adaptive Platform](https://www.autosar.org/standards/adaptive-platform) component.
+In the end, eFMI is easier to show than to describe. The magic is in the tools; the _eFMI Standard_ is not the user experience, but coordinates tool development and integration. As a user you can just enjoy a seamless toolchain from modeling to embedded implementation. Contact us for a demonstration of, for example, a toolchain from a [Modelica](https://modelica.org/modelicalanguage.html) physics-model of the [eFMI crosscheck test cases](https://github.com/modelica/efmi-testcases) 🡆 [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) 🡆 CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) 🡆 [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/) 🡆 to an [AUTOSAR Adaptive Platform](https://www.autosar.org/standards/adaptive-platform) component.
 
 ## eFMI highlights
 
-Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is still in development](/resources/#_efmi-standard_-releases). It will comprise the following highlights:
+Please note, that the first finalized release of the _eFMI Standard_, version 1.0.0, [is still in development](/resources/#_efmi-standard_-releases). It will comprise the following highlights:
 
 * [Open, freely available](/standard/#_efmi-standard_-releases-and-licensing), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
 * Driven by [open-source, research and industrial](/about/#map-efmi-members) tool-vendors and users from the modeling & simulation to the safety-critical embedded software domains.
 * Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola 2023](https://www.3ds.com/products-services/catia/products/dymola/)), embedded development and rapid prototyping ([TargetLink  22.1](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT 19](https://piketec.com/tpt/)) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial test suite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
-* Standardized workspace based on an open container architecture for cross-vendor tooling integration, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
+* Standardized workspace based on an open container architecture for cross-vendor toolchain integration, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
   * **Behavioral Model:** Reference behavior design and testing.
   * **Algorithm Code:** Target-independent intermediate-representation (IR) of solution algorithm in eFMI GALEC (***G***uarded ***A***lgorithm ***L***anguage for ***E***mbedded ***C***ontrol), a new high-level imperative language with guarantees on exception-free execution, error handling, worst time execution and memory requirements.
   * **Production Code:** C code tailored for a target-platform (embedded execution environment) satisfying real-time and safety-critical programming standards.
@@ -107,7 +107,7 @@ Please note, that the first release of the _eFMI Standard_, version 1.0.0, [is s
 
 ## Project organization and community
 
-Development of the _eFMI Standard_ is organized as [Modelica Association Project (MAP)](https://modelica.org/projects.html) under the roof of the [Modelica Association](https://modelica.org/). You can find the project bylaws and application forms on the [Resources page](/resources/#project-organization) and an overview of project members on the [About page](/about/#map-efmi-members).
+Development of the _eFMI Standard_ is organized as a [Modelica Association Project (MAP)](https://modelica.org/projects.html) under the roof of the [Modelica Association](https://modelica.org/). You can find the project bylaws and application forms on the [Resources page](/resources/#project-organization) and an overview of the project members on the [About page](/about/#map-efmi-members).
 
 We follow a well-defined release-cycle and versioning scheme described on the [Standard page](/standard/#release-cycle-and-versioning). There, also details on how to report issues of the _eFMI Standard_ [can be found](/standard/#reporting-specification-issues-and-new-feature-requests). Note, that the currently in development _eFMI Standard_ version -- except [deliberately released candidate-drafts](/resources/#_efmi-standard_-releases) -- is not public, as is the specification repository; you have to be a project member to get access to our private repositories and an official saying in standardization decisions.
 
