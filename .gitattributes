@@ -1,0 +1,21 @@
+# Graphics, videos and document containers:
+*.ai              binary
+*.bmp             binary
+*.eps             binary
+*.gif             binary
+*.gifv            binary
+*.ico             binary
+*.jng             binary
+*.jp2             binary
+*.jpg             binary
+*.jpeg            binary
+*.jpx             binary
+*.jxr             binary
+*.png             binary
+*.psb             binary
+*.psd             binary
+*.mp4             binary
+*.pdf             binary
+
+# Do not change line endings by default:
+* -text

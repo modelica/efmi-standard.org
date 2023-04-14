@@ -1,0 +1,10 @@
+*													@christoff-buerger
+.gitignore											@christoff-buerger
+.gitattributes										@christoff-buerger
+CODEOWNERS											@christoff-buerger
+SECURITY.md											@christoff-buerger
+README.md											@christoff-buerger
+LICENSE												@christoff-buerger
+documentation/										@christoff-buerger
+sources/											@Modelica/MAP-eFMI
+pages/												@Modelica/MAP-eFMI-webpage-buildbot
