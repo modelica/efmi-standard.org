@@ -30,7 +30,7 @@ The overview classifies each tool w.r.t. its support for the different container
 | | **General eFMI features:** Seamless integration of eFMI technology in dSPACE rapid prototyping and hardware-in-the-loop (HiL) ecosystem.
 | | **PC:** Export of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/). |
 | | |
-| [![TPT](/media/tools/TPT.png)](https://piketec.com/tpt/) | _**TPT**_ by [PikeTec](https://piketec.com/), **Since version:** 19 |
+| [![TPT](/media/tools/TPT.png)](https://piketec.com/tpt/) | _**TPT**_ by [_PikeTec_](https://piketec.com/), **Since version:** 19 |
 | | **General scope:** IDE for testing ECU software and embedded control systems in all development phases such as model-in-the-loop (MiL testing), software-in-the-loop (SiL testing), processor-in-the-loop (PiL testing), hardware-in-the-loop (HiL testing), ECU testing and vehicle testing, supporting relevant safety standards, such as ISO 26262, and test assessment, reporting, management and requirements traceability. |
 | | **BM:** Testing of BM containers in many well-known embedded execution environments. |
 | | **PC:** On the fly build of the C sources of PC containers for testing. |
