@@ -3,7 +3,7 @@ title: Standard
 contactFooter: true
 ---
 
-[//]: # "# _eFMI Standard_: Licensing, release cycle and release schedule"
+![Holy smokes, Batman, now I get the difference between requirement and specification; Juande Santander-Vela; CC BY-SA 2.0](/media/standard/holy-smokes-batman-now-i-get-the-difference-between-requirement-and-specification.png)
 
 This page gives a short overview of the development process of the _eFMI Standard_, its licensing, release cycle, backwards compatibility, and issue system. The actual _eFMI Standard_ can be found on the [Resources page](/resources/). The topics covered in the following are:
 
