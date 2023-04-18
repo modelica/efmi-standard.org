@@ -11,6 +11,12 @@ The overview classifies each tool w.r.t. its support for the different container
 
 | | |
 | :---: | :--- |
+| [![AUTOSAR Builder](/media/tools/AUTOSAR-Builder.png)](https://www.3ds.com/products-services/catia/products/autosar-builder/) | _**AUTOSAR Builder**_ by [_Dassault Systèmes_](https://www.3ds.com), **Since version:** 23x |
+| | **General scope:** IDE for modeling, testing and validation of in-vehicle embedded systems for the [AUTOSAR](https://www.autosar.org/) Classic and Adapaptive Platforms, facilitating seamless integration with other AUTOSAR compliant tools based on the [AUTOSAR Tool Platform (Artop)](https://www.artop.org/). |
+| | **BM:** Generate AUTOSAR test components for the test scenarios defined in BM containers. |
+| | **PC:** Adapt any eFMI PC container for the AUTOSAR Adaptive Platform, yielding an AUTOSAR Adaptive Platform compliant component ready for deployment in AUTOSAR-based target environments. |
+| | **BC:** Build binaries of AUTOSAR adapted PC containers for software-in-the-loop (SiL) tests. |
+| | |
 | [![CATIA ESP](/media/tools/CATIA-ESP.png)](TODO) | _**CATIA ESP**_ by [_Dassault Systèmes_](https://www.3ds.com), **Since version:** 3DEXPERIENCE 2023 |
 | | **General scope:** Embedded source code producer (ESP) on the [3DEXPERIENCE® platform](https://www.3ds.com/3dexperience), providing high quality code generation facilities for various Dassault Systèmes tooling, for example, [Cameo Systems Modeler](https://www.3ds.com/products-services/catia/products/no-magic/cameo-systems-modeler/).
 | | **General eFMI features:** Seamless integration with Dymola supported. |
