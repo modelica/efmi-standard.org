@@ -34,7 +34,7 @@ Instances of the various eFMI container types -- each reflecting one aspect/step
 
 ### Workflow and toolchain
 
-The general eFMI workflow is sketched by the following figure, demonstrating an actual eFMI prototype toolchain that has been developed in the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project, [which finished in February 2021](../about#project-history):
+The general eFMI workflow is sketched by the following figure, demonstrating an actual eFMI prototype toolchain that has been developed in the [EMPHYSIS](https://itea4.org/project/emphysis.html) research project, [which finished in February 2021](../about#project-history) (third party marks and brands are the property of their respective holders):
 
 ![eFMI-workflow](/media/introduction/eFMI-workflow.png)
 
@@ -96,7 +96,7 @@ Please note, that the first official release of the _eFMI Standard_, version 1.0
 
 * [Open, freely available](/standard/#_efmi-standard_-releases-and-licensing), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
 * Driven by [open-source, research and industrial](/about/#map-efmi-members) tool-vendors and users from the modeling & simulation to the safety-critical embedded software domains.
-* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola 2023](https://www.3ds.com/products-services/catia/products/dymola/)), embedded development and rapid prototyping ([TargetLink  22.1](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT 19](https://piketec.com/tpt/)) etc.
+* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola](https://www.3ds.com/products-services/catia/products/dymola/)), embedded development and rapid prototyping ([TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT](https://piketec.com/tpt/)) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial test suite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
 * Standardized workspace based on an open container architecture for cross-vendor toolchains, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
   * **Behavioral Model:** Reference behavior design and testing.

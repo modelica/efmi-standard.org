@@ -14,10 +14,24 @@ This page lists the project members, history of the project and legal informatio
 Development of the _eFMI Standard_ is organised as a [Modelica Association Project (MAP)](https://modelica.org/projects.html) under the roof of the [Modelica Association](https://modelica.org/). The MAP eFMI has no private individuals as members; only organizations can be a member. The focus of the project is on industrial application of eFMI technology; all members must either actively develop eFMI tooling, use eFMI in industrial projects or consult industrial application.
 
 The project leader and deputy project leader are (contact via efmi-info@googlegroups.com or individual e-mail):
- - Project leader: Christoff Bürger (Dassault Systèmes, Christoff.Buerger@3ds.com)
- - Deputy project leader: Hubertus Tummescheit (Modelon AB)
+ - **Project leader:** Christoff Bürger (Dassault Systèmes, Christoff.Buerger@3ds.com)
+ - **Deputy project leader:** Hubertus Tummescheit (Modelon AB)
 
-The members of MAP eFMI, in alphabetic order, are [Altair Engineering Inc.](https://altair.com/), [Dassault Systèmes](https://www.3ds.com/), [German Aerospace Center DLR](https://www.dlr.de/), [dSPACE GmbH](https://www.dspace.com/), [ETAS GmbH](https://www.etas.com/en/), [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/), [ESI Group](https://www.esi-group.com/), [Mercedes-Benz AG](https://www.mercedes-benz.com/), [Mitsubishi Electric Research Laboratories](https://www.merl.com/), [Modelon AB](https://www.modelon.com/), [Open Source Modelica Consortium](https://openmodelica.org/home/consortium), [PikeTec GmbH](https://piketec.com/), [Robert Bosch GmbH](https://www.bosch.com/) and [Siemens Digital Industries Software](https://www.sw.siemens.com/).
+The members of MAP eFMI, in alphabetic order, are:
+ - [Altair Engineering Inc.](https://altair.com/)
+ - [Dassault Systèmes](https://www.3ds.com/)
+ - [German Aerospace Center DLR](https://www.dlr.de/)
+ - [dSPACE GmbH](https://www.dspace.com/)
+ - [ETAS GmbH](https://www.etas.com/en/)
+ - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/)
+ - [ESI Group](https://www.esi-group.com/)
+ - [Mercedes-Benz AG](https://www.mercedes-benz.com/)
+ - [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
+ - [Modelon AB](https://www.modelon.com/)
+ - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
+ - [PikeTec GmbH](https://piketec.com/)
+ - [Robert Bosch GmbH](https://www.bosch.com/)
+ - [Siemens Digital Industries Software](https://www.sw.siemens.com/).
 
 ## Project history
 
@@ -60,3 +74,5 @@ FMI® is a registered trademark of the Modelica Association.
 SSP® is a registered trademark of the Modelica Association.
 
 DCP® is a registered trademark of the Modelica Association.
+
+Third party marks and brands are the property of their respective holders.

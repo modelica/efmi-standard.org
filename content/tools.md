@@ -7,12 +7,12 @@ contactFooter: true
 
 This pages gives a short overview of, mostly commercial, third party eFMI tooling. Tooling released by MAP eFMI can be found on the [Resources page](/resources/#map-efmi-published-tooling).
 
-The overview classifies each tool w.r.t. its support for the different container types defined by the _eFMI Standard_; the following abbreviations are used: eFMI Behavioral Model (**BM**), eFMI Algorithm Code (**AC**), eFMI Production Code (**PC**) and eFMI Binary Code (**BC**). Tools are listed in alphabetic order:
+The overview classifies each tool w.r.t. its support for the different container types defined by the _eFMI Standard_; the following abbreviations are used: eFMI Behavioral Model (**BM**), eFMI Algorithm Code (**AC**), eFMI Production Code (**PC**) and eFMI Binary Code (**BC**). Tools are listed in alphabetic order (third party marks and brands are the property of their respective holders):
 
 | | |
 | :---: | :--- |
 | [![AUTOSAR Builder](/media/tools/AUTOSAR-Builder.png)](https://www.3ds.com/products-services/catia/products/autosar-builder/) | _**AUTOSAR Builder**_ by [_Dassault Systèmes_](https://www.3ds.com), **Since version:** 23x |
-| | **General scope:** IDE for modeling, testing and validation of in-vehicle embedded systems for the [AUTOSAR](https://www.autosar.org/) Classic and Adapaptive Platforms, facilitating seamless integration with other AUTOSAR compliant tools based on the [AUTOSAR Tool Platform (Artop)](https://www.artop.org/). |
+| | **General scope:** IDE for modeling, testing and validation of in-vehicle embedded systems for the [AUTOSAR](https://www.autosar.org/) Classic and Adaptive Platforms, facilitating seamless integration with other AUTOSAR compliant tools based on the [AUTOSAR Tool Platform (Artop)](https://www.artop.org/). |
 | | **BM:** Generate AUTOSAR test components for the test scenarios defined in BM containers. |
 | | **PC:** Adapt any eFMI PC container for the AUTOSAR Adaptive Platform, yielding an AUTOSAR Adaptive Platform compliant component ready for deployment in AUTOSAR-based target environments. |
 | | **BC:** Build binaries of AUTOSAR adapted PC containers for software-in-the-loop (SiL) tests. |
