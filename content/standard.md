@@ -3,7 +3,7 @@ title: Standard
 contactFooter: true
 ---
 
-![Holy smokes, Batman, now I get the difference between requirement and specification; Juande Santander-Vela; CC BY-SA 2.0](/media/standard/holy-smokes-batman-now-i-get-the-difference-between-requirement-and-specification.png)
+[//]: # (No Batman for you explaining the difference between requirement and specification, sorry. We are professionals.)
 
 This page gives a short overview of the development process of the _eFMI Standard_, its licensing, release cycle, backwards compatibility, and issue system. The actual _eFMI Standard_ can be found on the [Resources page](/resources/). The topics covered in the following are:
 
