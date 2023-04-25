@@ -42,8 +42,8 @@ The starting point of every eFMI-based development project is the generation (or
 
 In the above example, the source is a physics model in [Modelica](https://modelica.org/modelicalanguage.html) and the final target a BOSCH MDG1 embedded control unit (ECU); the individual, mostly automatized development steps are:
 
-* Generation of an algorithmic GALEC program from an acausal physics-equations model in Modelica (eFMI Algorithm Code container generated with, e.g., [CATIA DBM](https://my.3dexperience.3ds.com/welcome/compass-world/rootroles/dynamic-systems-engineer), [Simcenter Amesim](https://plm.sw.siemens.com/en-US/simcenter/systems-simulation/amesim/), [Dymola](https://dymola.com/) or [SimulationX](https://www.esi-group.com/products/simulationx)).
-* Design and generation of reference test scenarios from simulations of the physics model (eFMI Behavioral Model containers generated with, e.g., [Dymola](https://dymola.com/)).
+* Generation of an algorithmic GALEC program from an acausal physics-equations model in Modelica (eFMI Algorithm Code container generated with, e.g., [CATIA DBM](https://my.3dexperience.3ds.com/welcome/compass-world/rootroles/dynamic-systems-engineer), [Simcenter Amesim](https://plm.sw.siemens.com/en-US/simcenter/systems-simulation/amesim/), [Dymola](https://www.dymola.com/) or [SimulationX](https://www.esi-group.com/products/simulationx)).
+* Design and generation of reference test scenarios from simulations of the physics model (eFMI Behavioral Model containers generated with, e.g., [Dymola](https://www.dymola.com/)).
 * Generation of production codes from the algorithmic GALEC solution (eFMI Production Code containers generated with, e.g., CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)).
 * Generation of executable binary codes from production codes (eFMI Binary Code containers for, e.g., the [AUTOSAR Adaptive Platform](https://www.autosar.org/) generated with, e.g., [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/)).
 * Static program analyses and testing of production and binary codes with, e.g., [Astrée](https://www.absint.com/astree/index.htm) and [TPT](https://piketec.com/tpt/), on a concrete target platform, e.g., BOSCH MDG1.
@@ -96,7 +96,7 @@ Please note, that the first official release of the _eFMI Standard_, version 1.0
 
 * [Open, freely available](/standard/#_efmi-standard_-releases-and-licensing), community-developed standard under the umbrella of the non-profit [Modelica Association](https://modelica.org/).
 * Driven by [open-source, research and industrial](/about/#map-efmi-members) tool-vendors and users from the modeling & simulation to the safety-critical embedded software domains.
-* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola](https://dymola.com/)), embedded development and rapid prototyping ([TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT](https://piketec.com/tpt/)) etc.
+* Supporting [tools](/tools/) are first-class in their field of expertise, e.g., physics modeling ([Dymola](https://www.dymola.com/)), embedded development and rapid prototyping ([TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)), software- and Hardware-in-the-Loop (SiL, HiL) testing ([TPT](https://piketec.com/tpt/)) etc.
 * All features are rigorously tested in tool-vendor crosschecks based on a [substantial test suite](https://github.com/modelica/efmi-testcases) of [Modelica](https://modelica.org/modelicalanguage.html) physics-models.
 * Standardized workspace based on an open container architecture for cross-vendor toolchains, covering most important aspects for the automatic transformation of high-level models to embedded solutions. Supported containers are:
   * **Behavioral Model:** Reference behavior design and testing.

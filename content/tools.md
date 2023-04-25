@@ -23,7 +23,7 @@ The overview classifies each tool w.r.t. its support for the different container
 | | **PC:** Export of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/). |
 | | **BC:** Generation of BC containers for desktop environments to support software-in-the-loop (SiL) applications. |
 | | |
-| [![Dymola](/media/tools/Dymola.png)](https://dymola.com/) | _**Dymola**_ by [_Dassault Systèmes_](https://www.3ds.com), **Since version:** 2022x |
+| [![Dymola](/media/tools/Dymola.png)](https://www.dymola.com/) | _**Dymola**_ by [_Dassault Systèmes_](https://www.3ds.com), **Since version:** 2022x |
 | | **General scope:** [Modelica](https://modelica.org/modelicalanguage.html) IDE for the acausal, equation-based modeling and simulation of complex multi-domain physics. |
 | | **General eFMI features:** Seamless integration of [_eFMI Container Manager_](https://github.com/modelica/efmi-containermanager) and [_eFMI Compliance Checker_](https://github.com/modelica/efmi-compliancechecker) for checking generated eFMUs. |
 | | **BM:** Clocked simulation of [Modelica](https://modelica.org/modelicalanguage.html) source models, but no BM container export yet. |
