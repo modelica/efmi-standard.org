@@ -33,8 +33,8 @@ The overview classifies each tool w.r.t. its support for the different container
 | | |
 | [![TargetLink](/media/tools/TargetLink.png)](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) | _**TargetLink**_ by [_dSPACE_](https://www.dspace.com/), **Since version:** 22.1 |
 | | **General scope:** Production code generator for highly efficient C code straight from MathWorks® [Simulink®](https://www.mathworks.com/products/simulink.html)/[Stateflow®](https://www.mathworks.com/products/stateflow.html) models, supporting early verification through built-in simulation and testing, certified for ISO 26262, ISO 25119 and IEC 61508, and with support for the [AUTOSAR](https://www.autosar.org/) Classic and Adaptive Platforms. |
-| | **General eFMI features:** Seamless integration of eFMI technology in dSPACE rapid prototyping and hardware-in-the-loop (HiL) ecosystem.
-| | **PC:** Export of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/). |
+| | **General eFMI features:** Usage of eFMI technology in dSPACE TargetLink ecosystem and vice-versa.
+| | **PC:** Generation of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/), provided as GALEC code in AC. |
 | | |
 | [![TPT](/media/tools/TPT.png)](https://piketec.com/tpt/) | _**TPT**_ by [_PikeTec_](https://piketec.com/), **Since version:** 19 |
 | | **General scope:** IDE for testing ECU software and embedded control systems in all development phases such as model-in-the-loop (MiL testing), software-in-the-loop (SiL testing), processor-in-the-loop (PiL testing), hardware-in-the-loop (HiL testing), ECU testing and vehicle testing, supporting relevant safety standards, such as ISO 26262, and test assessment, reporting, management and requirements traceability. |
