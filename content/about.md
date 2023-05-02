@@ -25,6 +25,7 @@ The members of MAP eFMI, in alphabetic order, are:
  - [ETAS GmbH](https://www.etas.com/en/)
  - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/)
  - [ESI Group](https://www.esi-group.com/)
+ - [Institute of Vehicle Engineering CO LTD](http://www.ivh.co.kr)
  - [Mercedes-Benz AG](https://www.mercedes-benz.com/)
  - [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
  - [Modelon AB](https://www.modelon.com/)
