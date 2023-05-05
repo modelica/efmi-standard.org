@@ -3,10 +3,12 @@ title: Resources
 contactFooter: true
 ---
 
-This page provides _selected_ MAP eFMI publications, most importantly the _eFMI Standard_, but also accompanying documents like example eFMUs, introductory presentations, overview papers, project reports and forms etc. For an overview of third party eFMI tooling, please consult the [Tools page](/tools/). The publications of MAP eFMI can be categorized in:
+This page provides the by MAP eFMI published material: the _eFMI Standard_, _selected recommended_ documentation and introductory material (overview papers, teaser videos etc), project reports and forms, and _eFMI Standard_ accompanying documents like crosscheck test cases and example eFMUs. Scientific publications are listed separately on the [Publications page](/publications/). For an overview of third party eFMI tooling, please consult the [Tools page](/tools/).
+
+The resources provided on this page can be categorized in:
 
 {{< toc >}}
- 
+
 ## _eFMI Standard_ releases
 
 **Most recent stable release**
