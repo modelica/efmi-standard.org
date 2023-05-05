@@ -9,8 +9,8 @@ This page lists _selected_ scientific publications and presentations related to 
 
  - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301)
  - [eFMI: An open standard for physical models in embedded software](https://doi.org/10.3384/ecp2118157)
- - [EFMI (FMI for Embedded Systems) in AUTOSAR for Next Generation Automotive Software Development](https://doi.org/10.4271/2021-26-0048)
- 
+ - [eFMI (FMI for Embedded Systems) in AUTOSAR for Next Generation Automotive Software Development](https://doi.org/10.4271/2021-26-0048)
+
 ## 2019
 
  - Standardizing eFMI for Embedded Systems with Physical Models in the Production Code Software: [Slides](https://modelica.github.io/Symposium2019/slides/jubilee-symposium-2019-slides-lenord.pdf),  [Video](https://youtu.be/SljwTeDRg2M)
