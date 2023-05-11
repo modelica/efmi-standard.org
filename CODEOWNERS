@@ -1,10 +1,16 @@
 *													@christoff-buerger
-.gitignore											@christoff-buerger
-.gitattributes										@christoff-buerger
+.gitattributes										@christoff-buerger @t-sommer
+.gitignore											@christoff-buerger @t-sommer
+.gitmodules											@christoff-buerger @t-sommer
 CODEOWNERS											@christoff-buerger
-SECURITY.md											@christoff-buerger
-README.md											@christoff-buerger
+config.yaml											@christoff-buerger @t-sommer
+CONTRIBUTING.md										@christoff-buerger
 LICENSE												@christoff-buerger
-documentation/										@christoff-buerger
-sources/											@Modelica/MAP-eFMI
-pages/												@Modelica/MAP-eFMI-webpage-buildbot
+README.md											@christoff-buerger
+SECURITY.md											@christoff-buerger
+.github/											@Modelica/MAP-eFMI-webpage-buildbot @christoff-buerger @t-sommer
+content/											@Modelica/MAP-eFMI
+resources/											@Modelica/MAP-eFMI
+static/												@Modelica/MAP-eFMI
+themes/												@christoff-buerger @t-sommer
+public/												@Modelica/MAP-eFMI-webpage-buildbot
