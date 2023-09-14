@@ -32,7 +32,7 @@ The members of MAP eFMI, in alphabetic order, are:
  - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
  - [PikeTec GmbH](https://piketec.com/)
  - [Robert Bosch GmbH](https://www.bosch.com/)
- - [Siemens Digital Industries Software](https://www.sw.siemens.com/).
+ - [Siemens Digital Industries Software](https://www.sw.siemens.com/)
 
 ## Project history
 
