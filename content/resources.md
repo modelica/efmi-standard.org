@@ -43,26 +43,41 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 **Annual project reports at Modelica Association assembly meetings**
 
- - [Annual project report 2022](/media/resources/MAP-eFMI-annual-project-report-2022.pdf)
- - [Annual project report 2021](/media/resources/MAP-eFMI-annual-project-report-2021.pdf)
- 
+ - [Annual project report 2022 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2022.pdf)
+ - [Annual project report 2021 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2021.pdf)
+
 ## Recommended documentation and introductory material{id="Recommended-documentation-and-introductory-material"}
 
 **Overview and introduction**
 
  - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-4-Minutes.mp4):
    - A 3:20-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
- - [eFMI overview paper (PDF)](https://doi.org/10.3384/ecp2118157) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
+ - [eFMI overview paper (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
    - A comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_.
- - [eFMI overview presentation (mp4)](/media/resources/Modelica-Conference-2021-MAP-eFMI.mp4) at the "FMI Industrial User Meeting" at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
-   - A video explaining how eFMI fits into the standards ecosystem of the [Modelica Association](https://modelica.org/) -- in particular compared to the [FMI Standard](https://fmi-standard.org) -- how eFMI containers look like and how the development of embedded solutions from high-level physics models is fostered by the eFMI workflow and accompanying existing tooling. A short overview of the MAP eFMI and its [development process and release cycle](/standard/) conclude the presentation.
- - [eFMI vs. FMI comparison (mp4)](/media/resources/eFMI-vs-FMI.mp4):
-   - A 3:26-minute's summary of the relation of eFMI compared to FMI, highlighting the need for another standard. 
- 
+ - [eFMI vs. FMI lineup (mp4)](/media/resources/eFMI-vs-FMI.mp4):
+   - A 3:32-minutes summary of the relation of eFMI compared to FMI, highlighting the need for another standard. 
+
+**eFMI® Tutorial**
+
+A comprehensive eFMI tutorial has been presented at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany. The tutorial starts with a general eFMI motivation and overview, proceeds with a running example motivating eFMI, a hands-on to generate eFMUs for the running example with a step-by-step guide in [Dymola](https://www.dymola.com/) (Dassault Systèmes) and CATIA ESP (Dassault Systèmes), followed by a live presentation of [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm#180_25805) (dSPACE GmbH) support for eFMI production code generation and system integration in [Simulink®](https://www.mathworks.com/products/simulink.html) (The MathWorks, Inc.) and other dedicated embedded target environments -- including harware-in-the-loop simulation and binary code statistics for the running example -- and finally finishes with a short summary of further eFMI tooling, like [TPT](https://piketec.com/tpt/) (PikeTec GmbH) and [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/) (Dassault Systèmes):
+
+ - eFMI® Tutorial Agenda
+ ([slides (PDF)](/media/resources/eFMI-Tutorial-Agenda.pdf))
+ - Part 1: eFMI® motivation and overview
+ ([recording (mp4)](/media/resources/eFMI-Tutorial-Part-1.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-1.pdf))
+ - Part 2: Running use-case introduction
+ ([recording (mp4)](/media/resources/eFMI-Tutorial-Part-2.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-2.pdf))
+ - Part 3: Hands on demonstration in Dymola and CATIA ESP
+ ([recording (mp4)](/media/resources/eFMI-Tutorial-Part-3.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-3.pdf))
+ - Part 4: Live demonstration in TargetLink
+ ([recording (mp4)](/media/resources/eFMI-Tutorial-Part-4.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-4.pdf))
+ - Part 5: Short presentation of further tooling
+ ([recording (mp4)](/media/resources/eFMI-Tutorial-Part-5.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-5.pdf))
+
 **Use-cases and industrial applications**
 
  - [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf):
-   - The final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (see the [About page](/about/#project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessment conducted to compare eFMI with state-of-the-art embedded software development, the test suite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution. 
+   - The final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (see the [About page](/about/#project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessment conducted to compare eFMI with state-of-the-art embedded software development, the test suite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution.
 
 ## Example eFMUs
 
