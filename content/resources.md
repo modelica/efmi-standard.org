@@ -55,7 +55,9 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
  - [eFMI overview paper (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
    - A comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_.
  - [eFMI vs. FMI lineup (mp4)](/media/resources/eFMI-vs-FMI.mp4):
-   - A 3:32-minutes summary of the relation of eFMI compared to FMI, highlighting the need for another standard. 
+   - A 3:32-minutes summary of the relation of eFMI compared to FMI, highlighting the need for another standard.
+ - [eFMI® scope and delimitation (PDF)](/media/resources/eFMI-scope-and-delimitation.pdf)
+   - Classification of eFMI w.r.t. related standards and ecosystems in the (physics) simulation and embedded software domain, highlighting its focus on (1) embedded software _development_, (2) single function-level design not composition & distributed-deployment and (3) non-functional quality criteria. The unique language design characteristics of eFMI GALEC are used to exemplify the focal point of eFMI: bringing acausal physics simulation to the safety-critical and hard real-time world all the way down to actual target hardware and their ecosystems.
 
 **eFMI® Tutorial**
 

@@ -7,7 +7,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2023
 
- - eFMI® Tutorial at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany:
+ - _eFMI® Tutorial_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany:
    - Part 1: eFMI® motivation and overview
    ([recording](https://youtu.be/oCDH-8mXeNw), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-1.pdf))
    - Part 2: Running use-case introduction
@@ -18,6 +18,8 @@ This page lists _selected_ scientific publications and presentations related to 
    ([recording](https://youtu.be/XeBVj6-_w0Q), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-4.pdf))
    - Part 5: Short presentation of further tooling
    ([recording](https://youtu.be/GF_YNonNMYs), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-5.pdf))
+ - _eFMI® scope and delimitation_ presentation at the _FMI User Meeting_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany
+ ([slides (PDF)](/media/resources/eFMI-scope-and-delimitation.pdf))
 
 ## 2021
 
