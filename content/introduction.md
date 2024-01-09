@@ -44,7 +44,7 @@ In the above example, the source is a physics model in [Modelica](https://modeli
 
 * Generation of an algorithmic GALEC program from an acausal physics-equations model in Modelica (eFMI Algorithm Code container generated with, e.g., [CATIA DBM](https://my.3dexperience.3ds.com/welcome/compass-world/rootroles/dynamic-systems-engineer), [Simcenter Amesim](https://plm.sw.siemens.com/en-US/simcenter/systems-simulation/amesim/), [Dymola](https://www.dymola.com/) or [SimulationX](https://www.esi-group.com/products/simulationx)).
 * Design and generation of reference test scenarios from simulations of the physics model (eFMI Behavioral Model containers generated with, e.g., [Dymola](https://www.dymola.com/)).
-* Generation of production codes from the algorithmic GALEC solution (eFMI Production Code containers generated with, e.g., CATIA ESP or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)).
+* Generation of production codes from the algorithmic GALEC solution (eFMI Production Code containers generated with, e.g., Software Production Engineering (former name _CATIA ESP_) or [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm)).
 * Generation of executable binary codes from production codes (eFMI Binary Code containers for, e.g., the [AUTOSAR Adaptive Platform](https://www.autosar.org/) generated with, e.g., [AUTOSAR Builder](https://www.3ds.com/products-services/catia/products/autosar-builder/)).
 * Static program analyses and testing of production and binary codes with, e.g., [Astrée](https://www.absint.com/astree/index.htm) and [TPT](https://piketec.com/tpt/), on a concrete target platform, e.g., BOSCH MDG1.
 
