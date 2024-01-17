@@ -12,9 +12,9 @@ This page lists _selected_ scientific publications and presentations related to 
    ([recording](https://youtu.be/oCDH-8mXeNw), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-1.pdf))
    - Part 2: Running use-case introduction
    ([recording](https://youtu.be/ghalwWlbSOA), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-2.pdf))
-   - Part 3: Hands on demonstration in Dymola and Software Production Engineering (former name _CATIA ESP_)
+   - Part 3: Hands on demonstration in [Dymola](https://www.dymola.com/) and [Software Production Engineering](https://my.3dexperience.3ds.com/welcome/compass-world/3dexperience-industries/transportation-and-mobility/smart-safe-and-connected/embedded-software-engineering/systems-software-production-engineer) (former name _CATIA ESP_)
    ([recording](https://youtu.be/n-aIFpxDtWE), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-3.pdf))
-   - Part 4: Live demonstration in TargetLink
+   - Part 4: Live demonstration in [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm#180_25805)
    ([recording](https://youtu.be/XeBVj6-_w0Q), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-4.pdf))
    - Part 5: Short presentation of further tooling
    ([recording](https://youtu.be/GF_YNonNMYs), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-5.pdf))
