@@ -21,6 +21,11 @@ This page lists _selected_ scientific publications and presentations related to 
  - _eFMI® scope and delimitation_ presentation at the _FMI User Meeting_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany
  ([slides (PDF)](/media/resources/eFMI-scope-and-delimitation.pdf))
 
+## 2022
+
+ - [Physik »inside« -- Modelltransformation und automatische Codegenerierung](https://www.elektroniknet.de/embedded/software/modelltransformation-und-automatische-codegenerierung.196801.html) article in Elektronik, Special issue for the Embedded World 2022 exhibition, June 2022 ([authors print version (PDF)](/media/publications/Elektronik-magazine-Embedded-World-2022-special-issue.pdf))
+ - [EMPHYSIS eFMI: get on board or risk missing out](https://itea4.org/magazine/41/march-2022/by-and-for-end-users.html) article in ITEA Magazine, Issue 41, March 2022 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-41-by-and-for-end-users.pdf))
+
 ## 2021
 
  - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301)
@@ -29,4 +34,4 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2019
 
- - Standardizing eFMI for Embedded Systems with Physical Models in the Production Code Software ([slides](https://modelica.github.io/Symposium2019/slides/jubilee-symposium-2019-slides-lenord.pdf),  [video](https://youtu.be/SljwTeDRg2M))
+ - Standardizing eFMI for Embedded Systems with Physical Models in the Production Code Software ([slides (PDF)](https://modelica.github.io/Symposium2019/slides/jubilee-symposium-2019-slides-lenord.pdf), [recording](https://youtu.be/SljwTeDRg2M))
