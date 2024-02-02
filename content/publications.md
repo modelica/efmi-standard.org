@@ -23,7 +23,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2022
 
- - [Physik »inside« -- Modelltransformation und automatische Codegenerierung](https://www.elektroniknet.de/embedded/software/modelltransformation-und-automatische-codegenerierung.196801.html) article in Elektronik, Special issue for the Embedded World 2022 exhibition, June 2022 ([authors print version (PDF)](/media/publications/Elektronik-magazine-Embedded-World-2022-special-issue.pdf))
+ - [Physik »inside« -- Modelltransformation und automatische Codegenerierung](https://www.elektroniknet.de/embedded/software/modelltransformation-und-automatische-codegenerierung.196801.html) article in Elektronik, Issue 11 (special issue for the _Embedded World 2022_ exhibition & conference), June 2022 ([authors print version (PDF)](/media/publications/Elektronik-magazine-Embedded-World-2022-special-issue.pdf))
  - [EMPHYSIS eFMI: get on board or risk missing out](https://itea4.org/magazine/41/march-2022/by-and-for-end-users.html) article in ITEA Magazine, Issue 41, March 2022 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-41-by-and-for-end-users.pdf))
 
 ## 2021
