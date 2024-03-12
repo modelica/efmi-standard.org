@@ -5,6 +5,10 @@ contactFooter: true
 
 This page lists _selected_ scientific publications and presentations related to eFMI -- like eFMI applications, assessments, tooling and technology etc -- sorted by year. For by MAP eFMI published material, like the _eFMI Standard_ itself, project reports and membership application forms or crosscheck test cases, please consult the [Resources page](/resources/).
 
+## 2024
+
+- [EMPHYSIS: Bridging the gap between digital simulation and embedded software with eFMI®](https://itea4.org/magazine/47/march-2024/itea-success-story-emphysis.html) article in ITEA Magazine, Issue 47, March 2024 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-47-Success-story.pdf))
+
 ## 2023
 
  - _eFMI® Tutorial_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany:
