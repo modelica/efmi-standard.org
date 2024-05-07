@@ -30,7 +30,7 @@ The members of MAP eFMI, in alphabetic order, are:
  - [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
  - [Modelon AB](https://www.modelon.com/)
  - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
- - [PikeTec GmbH](https://piketec.com/)
+ - [PikeTec GmbH (part of Synopsys, Inc.)](https://piketec.com/)
  - [Robert Bosch GmbH](https://www.bosch.com/)
  - [Siemens Digital Industries Software](https://www.sw.siemens.com/)
 
