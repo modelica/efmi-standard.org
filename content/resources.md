@@ -19,6 +19,8 @@ There exists no current stable release yet. The first release will be the upcomi
 
 The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the candidate-drafts for it. Please see [the release cycle](/standard/#release-cycle-and-versioning) for details about the release schedule and for an estimation of maturity of candidate-drafts.
 
+ - _eFMI Standard 1.0.0 Beta 1 (2024-07-02)_:
+   - [_eFMI Standard 1.0.0 Beta 1_ (zip)](/media/resources/eFMI-Standard-1.0.0-Beta-1.zip)
  - _eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:
    - [_eFMI Standard 1.0.0 Alpha 4_ (zip)](/media/resources/eFMI-Standard-1.0.0-Alpha-4.zip)
    - [Specification text with change-marks to previous draft (PDF)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text-changemarks.pdf)
@@ -43,6 +45,7 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 **Annual project reports at Modelica Association assembly meetings**
 
+ - [Annual project report 2023 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2023.pdf)
  - [Annual project report 2022 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2022.pdf)
  - [Annual project report 2021 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2021.pdf)
 

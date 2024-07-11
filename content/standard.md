@@ -23,7 +23,7 @@ _eFMI Standard_ releases and supporting artefacts and tooling are published on t
 
 ### General release organization
 
-We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Alpha 4_.
+We are currently in the second year of our release cycle. The latest candidate-draft is the _eFMI Standard 1.0.0 Beta 1_.
 
 We aim to release a new major eFMI version (i.e., _eFMI Standard_ and related tooling) about every 2 years; that is our planned release cycle. In the first year, new features are collected and defined, i.e., we design the:
 
@@ -69,8 +69,8 @@ MAP eFMI therefore reserves the right of -- and in fact very likely will introdu
 
 ## Reporting specification issues and new feature requests
 
-You can report any specification issues you found via the [GitHub issue tracker](https://github.com/modelica/efmi-standard.org/issues). Before opening any new issues, please consult the [contributing and repository policy](https://github.com/modelica/efmi-standard.org/blob/main/CONTRIBUTING.md) first. If you create a new issue, please use the label `eFMI Standard` and denote the troublesome version of the standard first in the issue title, e.g., _"eFMI 1.0.0 Alpha 4: The links in Chapter Foo-Bar are broken"_. Further, use the `bug` label for real specification bugs, the `enhancement` label for general new feature requests and the `question` label for general discussions.
+If you are not a project member, you have no access to the repository we use to develop the _eFMI Standard_. Nevertheless, you can report any specification issues you found via the [GitHub issue tracker of the public website repository](https://github.com/modelica/efmi-standard.org/issues). Before opening any new issues, please consult the [contributing and repository policy](https://github.com/modelica/efmi-standard.org/blob/main/CONTRIBUTING.md) first. If you create a new issue, please use the label `eFMI Standard` and denote the troublesome version of the standard first in the issue title, e.g., _"eFMI Standard 1.0.0 Alpha 4: The links in Chapter Foo-Bar are broken"_. Further, use the `bug` label for real specification bugs, the `enhancement` label for general new feature requests and the `question` label for general discussions. We will provide feedback if we consider your issue worthwhile and tranferred it to the non-public _eFMI Standard_ development repository or not.
 
 If your organization is regularly contributing or checking for issues and releases of the _eFMI Standard_, or just considers eFMI as an important technology in their field of application, you should consider joining MAP eFMI. To that end, you can find an overview of the project objectives and members on the [About page](/about/#map-efmi-members) and the project bylaws and application forms on the [Resources page](/resources/#project-organization).
 
-Joining MAP eFMI as a member is the only way for organizations to get an official saying in standardization decisions, direct the future eFMI development and get early access to in-development versions of the _eFMI Standard_.
+Joining MAP eFMI as a member is the only way for organizations to get an official saying in standardization decisions, direct the future eFMI development and get early access to in-development versions of the _eFMI Standard_. Only members have access to the _eFMI Standard_ development repository with the not _yet_ published, current development branch and source code.
