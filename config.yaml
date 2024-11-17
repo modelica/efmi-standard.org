@@ -2,9 +2,10 @@ baseURL: https://efmi-standard.org/
 title: eFMI®
 theme: ma-hugo-theme
 params:
-  logo: /media/eFMI-logo-no-text.svg
+  logo: /images/ma-logos/dark/eFMI-bare.svg
   github: modelica/efmi-standard.org
   email: efmi-info@googlegroups.com
+  darkMode: true
 menu:
   main:
     - pageRef: introduction
