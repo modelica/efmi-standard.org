@@ -3,6 +3,8 @@ title: Resources
 contactFooter: true
 ---
 
+![Modern warehouse with pallet rack storage system, © 2010, Axisadman, Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](/media/resources/modern-warehouse-with-pallet-rack-storage-system.png)
+
 This page provides the by MAP eFMI published material: the _eFMI Standard_, _selected recommended_ documentation and introductory material (overview papers, teaser videos etc), project reports and forms, and _eFMI Standard_ accompanying documents like crosscheck test cases and example eFMUs. Scientific publications are listed separately on the [Publications page](/publications/). For an overview of third party eFMI tooling, please consult the [Tools page](/tools/).
 
 The resources provided on this page can be categorized in:
