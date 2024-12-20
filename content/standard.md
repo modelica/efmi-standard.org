@@ -3,7 +3,7 @@ title: Standard
 contactFooter: true
 ---
 
-[//]: # (No Batman for you explaining the difference between requirement and specification, sorry. We are professionals.)
+![Court Gavel - Judge's Gavel - Courtroom, © 2016, weiss_paarz_photos, Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)](/media/standard/court-gavel-judges-gavel-courtroom.png)
 
 This page gives a short overview of the development process of the _eFMI Standard_, its licensing, release cycle, backwards compatibility, and issue system. The actual _eFMI Standard_ can be found on the [Resources page](/resources/). The topics covered in the following are:
 
