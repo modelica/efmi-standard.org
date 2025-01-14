@@ -52,7 +52,7 @@ All material published by MAP eFMI, including the _eFMI Standard_ and this webpa
 
 ![header-A4](/media/about/Modelica-Association-logo-403x192-150dpi.png)
 
-_© 2021-2023, Modelica Association and contributors._
+_© 2021-2025, Modelica Association and contributors._
 
 ### Licensing
 
