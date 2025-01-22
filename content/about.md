@@ -18,11 +18,11 @@ The project leader and deputy project leader are (contact via efmi-info@googlegr
  - **Deputy project leader:** Hubertus Tummescheit (Modelon AB)
 
 The members of MAP eFMI, in alphabetic order, are:
- - [Altair Engineering Inc.](https://altair.com/)
+ - [Altair Engineering Inc. (part of Siemens AG)](https://altair.com/)
  - [Dassault Systèmes](https://www.3ds.com/)
  - [German Aerospace Center DLR](https://www.dlr.de/)
  - [dSPACE GmbH](https://www.dspace.com/)
- - [ETAS GmbH](https://www.etas.com/en/)
+ - [ETAS GmbH (part of Robert Bosch GmbH)](https://www.etas.com/en/)
  - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/)
  - [ESI Group](https://www.esi-group.com/)
  - [Institute of Vehicle Engineering CO LTD](http://www.ivh.co.kr)
@@ -32,7 +32,7 @@ The members of MAP eFMI, in alphabetic order, are:
  - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
  - [PikeTec GmbH (part of Synopsys, Inc.)](https://piketec.com/)
  - [Robert Bosch GmbH](https://www.bosch.com/)
- - [Siemens Digital Industries Software](https://www.sw.siemens.com/)
+ - [Siemens Digital Industries Software (part of Siemens AG)](https://www.sw.siemens.com/)
 
 ## Project history
 
