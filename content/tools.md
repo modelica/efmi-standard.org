@@ -31,7 +31,7 @@ The overview classifies each tool w.r.t. its support for the different container
 | | **PC:** Generation of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/) from GALEC code in AC. |
 | | **BC:** Generation of BC containers for desktop environments to support software-in-the-loop (SiL) applications. |
 | | |
-| [![TargetLink](/media/tools/TargetLink.png)](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) | [_**TargetLink**_](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) by [_dSPACE_](https://www.dspace.com/), **Since version:** 22.1 |
+| [![TargetLink](/media/tools/TargetLink.png)](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) | [_**TargetLink**_](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm) by [_dSPACE_](https://www.dspace.com/), **Versions:** 22.1 Patch 4, 23.1 |
 | | **General scope:** Production code generator for highly efficient C code straight from MathWorks® [Simulink®](https://www.mathworks.com/products/simulink.html)/[Stateflow®](https://www.mathworks.com/products/stateflow.html) models, supporting early verification through built-in simulation and testing, certified for ISO 26262, ISO 25119 and IEC 61508, and with support for the [AUTOSAR](https://www.autosar.org/) Classic and Adaptive Platforms. |
 | | **General eFMI features:** Usage of eFMI technology in dSPACE TargetLink ecosystem and vice-versa.
 | | **PC:** Generation of C production code satisfying [MISRA C:2012](https://www.misra.org.uk/) from GALEC code in AC. |
