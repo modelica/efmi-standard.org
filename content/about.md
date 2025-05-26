@@ -23,16 +23,16 @@ The members of MAP eFMI, in alphabetic order, are:
  - [German Aerospace Center DLR](https://www.dlr.de/)
  - [dSPACE GmbH](https://www.dspace.com/)
  - [ETAS GmbH (part of Robert Bosch GmbH)](https://www.etas.com/en/)
- - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://www.efs-auto.com/)
- - [ESI Group](https://www.esi-group.com/)
+ - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://efs-techhub.com/)
  - [Institute of Vehicle Engineering CO LTD](http://www.ivh.co.kr)
+ - [Keysight Technologies, Inc. (former ESI Group)](https://www.keysight.com/)
  - [Mercedes-Benz AG](https://www.mercedes-benz.com/)
  - [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
  - [Modelon AB](https://www.modelon.com/)
  - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
- - [PikeTec GmbH (part of Synopsys, Inc.)](https://piketec.com/)
  - [Robert Bosch GmbH](https://www.bosch.com/)
  - [Siemens Digital Industries Software (part of Siemens AG)](https://www.sw.siemens.com/)
+ - [Synopsys, Inc. (former PikeTec GmbH)](https://www.synopsys.com/)
 
 ## Project history
 
