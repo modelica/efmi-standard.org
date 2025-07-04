@@ -2,7 +2,7 @@
 
 This repository contains the sources of the [efmi-standard.org website](https://efmi-standard.org) and is the central location for feature requests, suggestions and bug reports.
 
-The issue tracker of the repository is also used by the public (i.e., not MAP eFMI members) to report any issue of _eFMI Standard_ releases they found. Please consult the [contributing guidelines](CONTRIBUTING.md) and [overview of the _eFMI Standard_](https://efmi-standard.org/standard/) before reporting any issues.
+The issue tracker of the repository is also used by the public -- i.e., not Modelica® Association Project (MAP) eFMI® members -- to report any issue of _eFMI® Standard_ releases they found. Please consult the [contributing guidelines](CONTRIBUTING.md) and [overview of the _eFMI® Standard_](https://efmi-standard.org/standard/) before reporting any issues.
 
 ## Building the website locally
 
@@ -21,4 +21,4 @@ Please consult the [contributing guidelines](CONTRIBUTING.md) for details on how
 
 For security issues, please consult the [security guidelines](SECURITY.md).
 
-General MAP eFMI repository setup and configuration policies are summarized in the [MAP eFMI repository policies](https://github.com/modelica/efmi-organization/wiki/Repositories#public-repository-policies) (only relevant for repository administrators and therefor private webpage).
+General MAP eFMI® repository setup and configuration policies are summarized in the [MAP eFMI® repository policies](https://github.com/modelica/efmi-organization/wiki/Repositories#public-repository-policies) (only relevant for repository administrators and therefor private webpage).
