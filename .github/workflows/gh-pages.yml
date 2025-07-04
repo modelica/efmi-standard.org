@@ -1,0 +1,9 @@
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-website:
+    uses: modelica/ma-hugo-theme/.github/workflows/build-website.yml@25ac134f820ada1ec0883de1e38c48e9019a49ec
