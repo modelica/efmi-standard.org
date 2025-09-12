@@ -7,6 +7,10 @@ contactFooter: true
 
 This page lists _selected_ scientific publications and presentations related to eFMI -- like eFMI applications, assessments, tooling and technology etc -- sorted by year. For by MAP eFMI published material, like the _eFMI Standard_ itself, project reports and membership application forms or crosscheck test cases, please consult the [Resources page](/resources/).
 
+## 2025
+
+- [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218545) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
+
 ## 2024
 
 - [EMPHYSIS: Bridging the gap between digital simulation and embedded software with eFMI®](https://itea4.org/magazine/47/march-2024/itea-success-story-emphysis.html) article in ITEA Magazine, Issue 47, March 2024 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-47-Success-story.pdf))
@@ -35,7 +39,7 @@ This page lists _selected_ scientific publications and presentations related to 
 ## 2021
 
  - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301)
- - [eFMI: An open standard for physical models in embedded software](https://doi.org/10.3384/ecp2118157)
+ - [eFMI: An open standard for physical models in embedded software](https://doi.org/10.3384/ecp2118157) ([print version (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf))
  - [eFMI (FMI for Embedded Systems) in AUTOSAR for Next Generation Automotive Software Development](https://doi.org/10.4271/2021-26-0048)
 
 ## 2019
