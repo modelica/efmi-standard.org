@@ -72,8 +72,4 @@ eFMI® is a registered trademark of the Modelica Association.
 
 FMI® is a registered trademark of the Modelica Association.
 
-SSP® is a registered trademark of the Modelica Association.
-
-DCP® is a registered trademark of the Modelica Association.
-
 Third party marks and brands are the property of their respective holders.
