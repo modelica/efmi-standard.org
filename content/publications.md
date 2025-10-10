@@ -5,7 +5,7 @@ contactFooter: true
 
 ![Reading Is Fun - Long Beach Library, © 2015, ktchang16, Attribution 2.0 Generic (CC BY 2.0)](/media/publications/reading-is-fun-long-beach-library.png)
 
-This page lists _selected_ scientific publications and presentations related to eFMI -- like eFMI applications, assessments, tooling and technology etc -- sorted by year. For by MAP eFMI published material, like the _eFMI Standard_ itself, project reports and membership application forms or crosscheck test cases, please consult the [Resources page](/resources/).
+This page lists _selected_ scientific publications and presentations related to eFMI -- like eFMI applications, assessments, tooling and technology, etc -- sorted by year. For by MAP eFMI published material, like the _eFMI Standard_ itself, project bylaws and membership application forms, or crosscheck test cases, please consult the [Resources page](/resources/).
 
 ## 2025
 

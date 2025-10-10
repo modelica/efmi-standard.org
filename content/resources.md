@@ -5,7 +5,7 @@ contactFooter: true
 
 ![Modern warehouse with pallet rack storage system, © 2010, Axisadman, Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](/media/resources/modern-warehouse-with-pallet-rack-storage-system.png)
 
-This page provides the by MAP eFMI published material: the _eFMI Standard_, _selected recommended_ documentation and introductory material (overview papers, teaser videos etc), project reports and forms, and _eFMI Standard_ accompanying documents like crosscheck test cases and example eFMUs. Scientific publications are listed separately on the [Publications page](/publications/). For an overview of third party eFMI tooling, please consult the [Tools page](/tools/).
+This page provides the by MAP eFMI published material: the _eFMI Standard_, selected recommended documentation and introductory material (overview papers, teaser videos, tutorials, etc), project organization documents (bylaws, application guidelines and forms, etc), and _eFMI Standard_ accompanying resources like crosscheck test cases and example eFMUs. Scientific publications are listed separately on the [Publications page](/publications/). For an overview of third party eFMI tooling, please consult the [Tools page](/tools/).
 
 The resources provided on this page can be categorized in:
 
@@ -41,6 +41,8 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 ## Project organization
 
+**Bylaws and membership application**
+
  - [MAP eFMI bylaws (PDF)](/media/resources/MAP-eFMI-bylaws.pdf)
  - [Membership application guidelines and form (PDF)](/media/resources/MAP-eFMI-application.pdf)
  - [Modelica Association Contributor License Agreement (MA CLA) (PDF)](/media/resources/Modelica-Association-CLA.pdf)
@@ -54,16 +56,18 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 ## Recommended documentation and introductory material{id="Recommended-documentation-and-introductory-material"}
 
-**Overview and introduction**
+### Teasers and overview material
 
- - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-4-Minutes.mp4):
-   - A 3:20-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
  - [eFMI overview paper (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf) at the [14th International Modelica Conference](https://2021.international.conference.modelica.org/):
    - A comprehensive and highly recommended introductory overview paper about eFMI technology and the _eFMI Standard_.
+ - [eFMI motivation and objectives teaser (mp4)](/media/resources/eFMI-Explained-in-4-Minutes.mp4):
+   - A 3:20-minutes video summarizing the application domain, motivation and objectives of the _eFMI Standard_. 
  - [eFMI vs. FMI lineup (mp4)](/media/resources/eFMI-vs-FMI.mp4):
    - A 3:32-minutes summary of the relation of eFMI compared to FMI, highlighting the need for another standard.
  - [eFMI® scope and delimitation (PDF)](/media/resources/eFMI-scope-and-delimitation.pdf)
    - Classification of eFMI w.r.t. related standards and ecosystems in the (physics) simulation and embedded software domain, highlighting its focus on (1) embedded software _development_, (2) single function-level design not composition & distributed-deployment and (3) non-functional quality criteria. The unique language design characteristics of eFMI GALEC are used to exemplify the focal point of eFMI: bringing acausal physics simulation to the safety-critical and hard real-time world all the way down to actual target hardware and their ecosystems.
+
+### eFMI® tutorials
 
 **eFMI® tutorial 2025**
 
@@ -92,7 +96,7 @@ A comprehensive eFMI tutorial has been presented at the [15th International Mode
  - Part 5: Short presentation of further tooling
  ([recording (mp4)](/media/resources/eFMI-Tutorial-2023-Part-5.mp4), [slides (PDF)](/media/resources/eFMI-Tutorial-2023-Part-5.pdf))
 
-**Use-cases and industrial applications**
+### Use-cases and industrial applications
 
  - [ITEA 3 EMPHYSIS industrial demonstrator report (PDF)](/media/resources/emphysis-public-demonstrator-summary.pdf):
    - The final report summarizing the industrial demonstrators developed in the [ITEA 3 Call 2](https://itea4.org/) project [EMPHYSIS](https://itea4.org/project/emphysis.html) (see the [About page](/about/#project-history) for details about the relationship of MAP eFMI with EMPHYSIS). The report explains the used eFMI tooling and tool interactions, the performance assessment conducted to compare eFMI with state-of-the-art embedded software development, the test suite and unit tests to validate eFMI tooling compatibility (crosschecks) and the varying actual industrial demonstrators and their challenges and eFMI-based solution.

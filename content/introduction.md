@@ -5,7 +5,7 @@ contactFooter: true
 
 ![eFMI-physics-simulation-to-embedded-systems-bridge](/media/introduction/eFMI-bridge.png)
 
-This page gives an overview of the general objectives and concepts of eFMI, its highlights and our project organization. Information about the project members and history can be found on the [About page](/about/). The topics covered in the following are:
+This page gives an overview of the general objectives and concepts of eFMI, its highlights and our project organization. Information about the project members, history and legal framework can be found on the [About page](/about/). The topics covered in the following are:
  
 {{< toc >}}
 
