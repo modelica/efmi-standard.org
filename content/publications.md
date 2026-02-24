@@ -9,7 +9,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2025
 
-- [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218545) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
+- [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218555) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
 
 ## 2024
 
