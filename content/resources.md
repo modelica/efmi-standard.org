@@ -49,6 +49,7 @@ MAP eFMI provides a set of open source tools and libraries to foster the eFMI ec
 
 **Annual project reports at Modelica Association assembly meetings**
 
+ - [Annual project report 2025 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2025.pdf)
  - [Annual project report 2024 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2024.pdf)
  - [Annual project report 2023 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2023.pdf)
  - [Annual project report 2022 (PDF)](/media/resources/MAP-eFMI-annual-project-report-2022.pdf)
