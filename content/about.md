@@ -15,7 +15,7 @@ Development of the _eFMI Standard_ is organised as a [Modelica Association Proje
 
 The project leader and deputy project leader are (contact via efmi-info@googlegroups.com or individual e-mail):
  - **Project leader:** Christoff Bürger (Dassault Systèmes, Christoff.Buerger@3ds.com)
- - **Deputy project leader:** Daeoh Kang (iVH CO LTD)
+ - **Deputy project leader:** Daeoh Kang (iVH Co., Ltd.)
 
 The members of MAP eFMI, in alphabetic order, are:
  - [Altair Engineering Inc. (part of Siemens AG)](https://altair.com/)
@@ -24,7 +24,7 @@ The members of MAP eFMI, in alphabetic order, are:
  - [dSPACE GmbH](https://www.dspace.com/)
  - [ETAS GmbH (part of Robert Bosch GmbH)](https://www.etas.com/en/)
  - [e:fs TechHub GmbH (former name: Elektronische Fahrwerksysteme GmbH)](https://efs-techhub.com/)
- - [iVH CO LTD](http://www.ivh.co.kr)
+ - [iVH Co., Ltd.](http://www.ivh.co.kr)
  - [Keysight Technologies, Inc. (former ESI Group)](https://www.keysight.com/)
  - [Mercedes-Benz AG](https://www.mercedes-benz.com/)
  - [Mitsubishi Electric Research Laboratories](https://www.merl.com/)
@@ -32,7 +32,6 @@ The members of MAP eFMI, in alphabetic order, are:
  - [Open Source Modelica Consortium](https://openmodelica.org/home/consortium)
  - [Robert Bosch GmbH](https://www.bosch.com/)
  - [Siemens Digital Industries Software (part of Siemens AG)](https://www.sw.siemens.com/)
- - [Synopsys, Inc. (former PikeTec GmbH)](https://www.synopsys.com/)
 
 ## Project history
 
@@ -52,7 +51,7 @@ All material published by MAP eFMI, including the _eFMI Standard_ and this webpa
 
 ![header-A4](/media/about/Modelica-Association-logo-403x192-150dpi.png)
 
-_© 2021-2025, Modelica Association and contributors._
+_© 2021-2026, Modelica Association and contributors._
 
 ### Licensing
 
