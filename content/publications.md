@@ -9,25 +9,36 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2025
 
-- [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218555) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
+ - [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218555) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
+ - _eFMI® Tutorial_ at the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/), 8th of September 2025, Lucerne, Switzerland:
+   - Part 1: eFMI® motivation and overview
+     ([recording (mp4)](https://youtu.be/HobYT2BYTL0), [slides (PDF)](/media/resources/eFMI-Tutorial-2025-Part-1.pdf))
+   - Part 2: Running use-case introduction
+     ([recording (mp4)](https://youtu.be/Cng653GW7f4), [slides (PDF)](/media/resources/eFMI-Tutorial-2025-Part-2.pdf))
+   - Part 3: Hands-on in [Dymola](https://www.dymola.com/) and Software Production Engineering (since Dymola 2026x Refresh 1 part of in Dymola)
+     ([recording (mp4)](https://youtu.be/K-21h-C1MxM), [slides (PDF)](/media/resources/eFMI-Tutorial-2025-Part-3.pdf))
+   - Part 4: Advanced demonstrators
+     ([recording (mp4)](https://youtu.be/nkugRv_cwnA), [slides (PDF)](/media/resources/eFMI-Tutorial-2025-Part-4.pdf), [BMS life-demo at Dassault Systèmes booth (mp4)](/media/resources/eFMI-Tutorial-2025-Part-4-BMS-demo.mp4), [BMS technical report (PDF)](/media/resources/eFMI-Tutorial-2025-Part-4-BMS-demo.pdf))
+   - Part 5: Industry case-study
+     ([recording (mp4)](https://youtu.be/aJlEDmVOuVQ), [slides (PDF)](/media/resources/eFMI-Tutorial-2025-Part-5.pdf))
 
 ## 2024
 
-- [EMPHYSIS: Bridging the gap between digital simulation and embedded software with eFMI®](https://itea4.org/magazine/47/march-2024/itea-success-story-emphysis.html) article in ITEA Magazine, Issue 47, March 2024 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-47-Success-story.pdf))
+ - [EMPHYSIS: Bridging the gap between digital simulation and embedded software with eFMI®](https://itea4.org/magazine/47/march-2024/itea-success-story-emphysis.html) article in ITEA Magazine, Issue 47, March 2024 ([print version (PDF)](/media/publications/ITEA-Magazine-Issue-47-Success-story.pdf))
 
 ## 2023
 
  - _eFMI® Tutorial_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany:
    - Part 1: eFMI® motivation and overview
-   ([recording](https://youtu.be/oCDH-8mXeNw), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-1.pdf))
+     ([recording](https://youtu.be/oCDH-8mXeNw), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-1.pdf))
    - Part 2: Running use-case introduction
-   ([recording](https://youtu.be/ghalwWlbSOA), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-2.pdf))
+     ([recording](https://youtu.be/ghalwWlbSOA), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-2.pdf))
    - Part 3: Hands on demonstration in [Dymola](https://www.dymola.com/) and [Software Production Engineering](https://my.3dexperience.3ds.com/welcome/compass-world/3dexperience-industries/transportation-and-mobility/smart-safe-and-connected/embedded-software-engineering/systems-software-production-engineer) (former name _CATIA ESP_)
-   ([recording](https://youtu.be/n-aIFpxDtWE), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-3.pdf))
+     ([recording](https://youtu.be/n-aIFpxDtWE), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-3.pdf))
    - Part 4: Live demonstration in [TargetLink](https://www.dspace.com/en/pub/home/products/sw/pcgs/targetlink.cfm#180_25805)
-   ([recording](https://youtu.be/XeBVj6-_w0Q), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-4.pdf))
+     ([recording](https://youtu.be/XeBVj6-_w0Q), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-4.pdf))
    - Part 5: Short presentation of further tooling
-   ([recording](https://youtu.be/GF_YNonNMYs), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-5.pdf))
+     ([recording](https://youtu.be/GF_YNonNMYs), [slides (PDF)](/media/resources/eFMI-Tutorial-Part-5.pdf))
  - _eFMI® scope and delimitation_ presentation at the _FMI User Meeting_ at the [15th International Modelica Conference](https://2023.international.conference.modelica.org/), 9th of October 2023, Aachen, Germany
  ([slides (PDF)](/media/resources/eFMI-scope-and-delimitation.pdf))
 
