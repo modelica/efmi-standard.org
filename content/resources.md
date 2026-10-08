@@ -21,11 +21,9 @@ There exists no current stable release yet. The first release will be the upcomi
 
 The next major upcoming _eFMI Standard_ release is version 1.0.0; below are the candidate-drafts for it. Please see [the release cycle](/standard/#release-cycle-and-versioning) for details about the release schedule and for an estimation of maturity of candidate-drafts.
 
- - _eFMI Standard 1.0.0 Beta 1 (2024-07-02)_:
-   - [_eFMI Standard 1.0.0 Beta 1_ (zip)](/media/resources/eFMI-Standard-1.0.0-Beta-1.zip)
- - _eFMI Standard 1.0.0 Alpha 4 (2021-02-22)_:
-   - [_eFMI Standard 1.0.0 Alpha 4_ (zip)](/media/resources/eFMI-Standard-1.0.0-Alpha-4.zip)
-   - [Specification text with change-marks to previous draft (PDF)](/media/resources/eFMI-Standard-1.0.0-Alpha-4-specification-text-changemarks.pdf)
+ - [_eFMI Standard 1.0.0 Beta 2_ (zip, 2026-10-07)](/media/resources/eFMI-Standard-1.0.0-Beta-2.zip)
+ - [_eFMI Standard 1.0.0 Beta 1_ (zip, 2024-07-02)](/media/resources/eFMI-Standard-1.0.0-Beta-1.zip)
+ - [_eFMI Standard 1.0.0 Alpha 4_ (zip, 2021-02-22)](/media/resources/eFMI-Standard-1.0.0-Alpha-4.zip)
 
 **Previous stable releases**
 
