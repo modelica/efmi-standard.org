@@ -53,7 +53,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2021
 
- - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301) ([print version (PDF)](/media/resources/Actuators-2021-10-11-301-article.pdf))
+ - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301) ([print version (PDF)](/media/publications/Actuators-2021-10-11-301-article.pdf))
  - [eFMI: An open standard for physical models in embedded software](https://doi.org/10.3384/ecp2118157) ([print version (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf))
  - [eFMI (FMI for Embedded Systems) in AUTOSAR for Next Generation Automotive Software Development](https://doi.org/10.4271/2021-26-0048)
 
