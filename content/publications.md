@@ -7,6 +7,10 @@ contactFooter: true
 
 This page lists _selected_ scientific publications and presentations related to eFMI -- like eFMI applications, assessments, tooling and technology, etc -- sorted by year. For by MAP eFMI published material, like the _eFMI Standard_ itself, project bylaws and membership application forms, or crosscheck test cases, please consult the [Resources page](/resources/).
 
+## 2026
+
+ - [Real-time Simulation and CHiL Testing of Power System Stabilizers on Microcontrollers with Modelica and eFMI](https://modelica.org/events/american2026/files/AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) ([print version (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper.pdf), [slides (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper-slides.pdf))
+
 ## 2025
 
  - [Hybrid Simulation Models for Embedded Applications: A Modelica and eFMI approach](https://doi.org/10.3384/ecp218555) ([print version (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper.pdf), [slides (PDF)](/media/publications/Modelica-and-FMI-Conference-2025-paper-slides.pdf))
@@ -49,7 +53,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2021
 
- - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301)
+ - [Advanced Controller Development Based on eFMI with Applications to Automotive Vertical Dynamics Control](https://doi.org/10.3390/act10110301) ([print version (PDF)](/media/resources/Actuators-2021-10-11-301-article.pdf))
  - [eFMI: An open standard for physical models in embedded software](https://doi.org/10.3384/ecp2118157) ([print version (PDF)](/media/resources/Modelica-Conference-2021-paper.pdf))
  - [eFMI (FMI for Embedded Systems) in AUTOSAR for Next Generation Automotive Software Development](https://doi.org/10.4271/2021-26-0048)
 
