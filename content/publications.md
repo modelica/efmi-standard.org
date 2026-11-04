@@ -9,7 +9,7 @@ This page lists _selected_ scientific publications and presentations related to 
 
 ## 2026
 
- - [Real-time Simulation and CHiL Testing of Power System Stabilizers on Microcontrollers with Modelica and eFMI](https://modelica.org/events/american2026/files/AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) ([print version (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper.pdf), [slides (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper-slides.pdf))
+ - [Real-time Simulation and CHiL Testing of Power System Stabilizers on Microcontrollers with Modelica and eFMI](https://modelica.org/events/american2026/files/AmericanModelicaFMI2026_Proceedings_Part1_p1-152.pdf) ([print version (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper.pdf), [slides (PDF)](/media/publications/American-Modelica-and-FMI-Conference-2026-paper-slides.pdf), [GitHub repository](https://github.com/ALSETLab/efmi-pss-use-case))
 
 ## 2025
 
